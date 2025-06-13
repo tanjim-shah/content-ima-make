@@ -1,4 +1,3 @@
-```markdown
 ---
 publishDate: 2025-06-11T00:00:00Z
 title: How To Clean Above Ground Pool With Algae

@@ -1,4 +1,3 @@
-```markdown
 ---
 publishDate: 2025-06-11T00:00:00Z
 title: How To Clean Above Ground Pool Pump Impeller
@@ -136,4 +135,3 @@ It is generally not recommended to use harsh chemicals directly on the impeller.
 Cleaning your above ground pool pump impeller is a necessary maintenance task for any pool owner. It might seem daunting at first. However, following these steps ensures a clean, efficient pump. A well-maintained impeller leads to clear water. It also helps your pump last longer. You prevent costly repairs. I assure you this is a straightforward process.
 
 Remember to always prioritize safety. Disconnect power. Turn off water flow. Then, take your time with disassembly. Remove all debris from the impeller blades. Reassemble carefully. Test your pump thoroughly afterward. By performing this vital maintenance, you ensure your above ground pool stays inviting and ready for enjoyment. Make cleaning your impeller a regular part of your pool care routine. Your pool, and your wallet, will thank you. Get ready to enjoy crystal-clear water all season long!
-```
