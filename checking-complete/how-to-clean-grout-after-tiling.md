@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Grout After Tiling
-excerpt: Learn how to clean grout after tiling for spotless floors and walls. Our guide covers grout haze removal, proper drying, and sealing techniques.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Improvement
-tags:
-  - grout cleaning
-  - tile maintenance
-  - grout haze removal
+excerpt: Learn how to clean grout after tiling for spotless floors and walls. Our
+  guide covers grout haze removal, proper drying, and sealing techniques.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749908048/temp_image_1749908047_i6c3rm.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-grout-after-tiling
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- grout cleaning
+- tile maintenance
+- grout haze removal
+title: How To Clean Grout After Tiling
 ---
 
 ## Clean Grout After Tiling: A Complete Guide for Fresh Tiles

@@ -1,19 +1,21 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Brazilian Cherry Hardwood Floors
-excerpt: Discover how to effectively clean Brazilian Cherry hardwood floors. Learn expert tips for daily care, deep cleaning, and protecting their beautiful, rich luster.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Floor Cleaning
-tags:
-  - Brazilian Cherry floors
-  - hardwood floor cleaning
-  - wood floor care
-  - floor maintenance
-  - cherry wood cleaning
-  - Jatoba care
-  - hardwood protection
+excerpt: Discover how to effectively clean Brazilian Cherry hardwood floors. Learn
+  expert tips for daily care, deep cleaning, and protecting their beautiful, rich
+  luster.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749907106/temp_image_1749907105_winlel.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-brazilian-cherry-hardwood-floors
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- Brazilian Cherry floors
+- hardwood floor cleaning
+- wood floor care
+- floor maintenance
+- cherry wood cleaning
+- Jatoba care
+- hardwood protection
+title: How To Clean Brazilian Cherry Hardwood Floors
 ---
 
 ## Maintain Shine: How To Clean Brazilian Cherry Hardwood Floors

@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Slow Draining Sink
-excerpt: Learn how to clean a slow draining sink effectively with DIY methods, tools, and preventive tips. Keep your sink flowing freely and prevent clogs.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - slow drain cleaning
-  - sink clogs
-  - DIY plumbing
-  - drain maintenance
-  - kitchen sink
-  - bathroom sink
+excerpt: Learn how to clean a slow draining sink effectively with DIY methods, tools,
+  and preventive tips. Keep your sink flowing freely and prevent clogs.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749908017/temp_image_1749908017_ozd4k1.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-slow-draining-sink
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- slow drain cleaning
+- sink clogs
+- DIY plumbing
+- drain maintenance
+- kitchen sink
+- bathroom sink
+title: How To Clean Slow Draining Sink
 ---
 
 ## How To Clean Slow Draining Sink Effectively

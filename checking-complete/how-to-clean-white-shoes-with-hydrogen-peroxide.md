@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean White Shoes With Hydrogen Peroxide
-excerpt: Restore your white shoes to their original brilliance using hydrogen peroxide. Learn easy, effective methods for cleaning canvas, leather, and more.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - white shoe cleaning
-  - hydrogen peroxide uses
-  - shoe stain removal
-  - DIY shoe cleaner
-  - sneaker care
+excerpt: Restore your white shoes to their original brilliance using hydrogen peroxide.
+  Learn easy, effective methods for cleaning canvas, leather, and more.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749907628/temp_image_1749907627_a2ll3f.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-white-shoes-with-hydrogen-peroxide
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- white shoe cleaning
+- hydrogen peroxide uses
+- shoe stain removal
+- DIY shoe cleaner
+- sneaker care
+title: How To Clean White Shoes With Hydrogen Peroxide
 ---
 
 ## Brighten Your Steps: How to Clean White Shoes with Hydrogen Peroxide
