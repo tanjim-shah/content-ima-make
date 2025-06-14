@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Marble Shower Floor
-excerpt: Learn how to clean marble shower floor safely and effectively. Keep your luxurious marble sparkling and free from soap scum and hard water stains.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - marble cleaning
-  - shower maintenance
-  - natural stone care
-  - bathroom cleaning tips
-  - soap scum removal
-  - hard water stains
-  - mold prevention
+excerpt: Learn how to clean marble shower floor safely and effectively. Keep your
+  luxurious marble sparkling and free from soap scum and hard water stains.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749904018/temp_image_1749904018_vwfluc.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-marble-shower-floor
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- marble cleaning
+- shower maintenance
+- natural stone care
+- bathroom cleaning tips
+- soap scum removal
+- hard water stains
+- mold prevention
+title: How To Clean Marble Shower Floor
 ---
 
 ## Shine Your Shower: How to Clean Marble Shower Floor Safely

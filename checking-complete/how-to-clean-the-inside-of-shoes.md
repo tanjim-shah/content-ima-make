@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean The Inside Of Shoes
-excerpt: Learn how to clean the inside of shoes thoroughly, eliminate odors, and maintain freshness with simple steps and common household items.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Footwear Care
-tags:
-  - shoe cleaning
-  - odor removal
-  - sneaker care
-  - shoe hygiene
-  - footwear maintenance
+excerpt: Learn how to clean the inside of shoes thoroughly, eliminate odors, and maintain
+  freshness with simple steps and common household items.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749904108/temp_image_1749904107_cjstdt.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-the-inside-of-shoes
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- shoe cleaning
+- odor removal
+- sneaker care
+- shoe hygiene
+- footwear maintenance
+title: How To Clean The Inside Of Shoes
 ---
 
 ## Deep Clean Your Shoes: A Guide to Freshening the Inside

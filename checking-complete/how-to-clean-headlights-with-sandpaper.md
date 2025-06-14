@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Headlights With Sandpaper
-excerpt: Restore foggy headlights safely and effectively. Learn how to clean headlights with sandpaper for improved visibility and vehicle appearance.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Automotive Maintenance
-tags:
-  - headlight restoration
-  - car maintenance
-  - DIY auto
-  - sanding headlights
-  - hazy headlights
+excerpt: Restore foggy headlights safely and effectively. Learn how to clean headlights
+  with sandpaper for improved visibility and vehicle appearance.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749904028/temp_image_1749904028_cztusb.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-headlights-with-sandpaper
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- headlight restoration
+- car maintenance
+- DIY auto
+- sanding headlights
+- hazy headlights
+title: How To Clean Headlights With Sandpaper
 ---
 
 ## Restore Your Headlights: How to Clean Headlights with Sandpaper

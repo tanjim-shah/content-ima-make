@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Bathtub Without Scrubbing
-excerpt: Discover how to clean bathtub without scrubbing using simple, effective methods. Remove soap scum and hard water stains effortlessly for a sparkling tub.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - no-scrub cleaning
-  - bathtub cleaning
-  - home hacks
-  - bathroom maintenance
-  - natural cleaners
+excerpt: Discover how to clean bathtub without scrubbing using simple, effective methods.
+  Remove soap scum and hard water stains effortlessly for a sparkling tub.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749903600/temp_image_1749903599_rnt5ld.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-bathtub-without-scrubbing
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- no-scrub cleaning
+- bathtub cleaning
+- home hacks
+- bathroom maintenance
+- natural cleaners
+title: How To Clean Bathtub Without Scrubbing
 ---
 
 ## Unlock a Sparkling Tub: How To Clean Bathtub Without Scrubbing
