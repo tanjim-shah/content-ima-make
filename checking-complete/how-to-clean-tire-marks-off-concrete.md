@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Tire Marks Off Concrete
-excerpt: Discover how to effectively clean tire marks off concrete driveways and garage floors using various methods and essential tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - concrete cleaning
-  - tire mark removal
-  - driveway cleaning
-  - rubber stains
-  - concrete stains
+excerpt: Discover how to effectively clean tire marks off concrete driveways and garage
+  floors using various methods and essential tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749885377/temp_image_1749885376_ygjx1a.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-tire-marks-off-concrete
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- concrete cleaning
+- tire mark removal
+- driveway cleaning
+- rubber stains
+- concrete stains
+title: How To Clean Tire Marks Off Concrete
 ---
 
 ## Erasing Tire Marks: How To Clean Tire Marks Off Concrete Effectively

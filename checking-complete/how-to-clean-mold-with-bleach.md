@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Mold With Bleach
-excerpt: Discover effective methods for cleaning mold with bleach. Learn about safety, proper dilution, and when to use bleach for mold removal in your home.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - cleaning mold with bleach
-  - mold removal
-  - household bleach
-  - safety tips
-  - mold prevention
-  - non-porous surfaces
-  - home maintenance
+excerpt: Discover effective methods for cleaning mold with bleach. Learn about safety,
+  proper dilution, and when to use bleach for mold removal in your home.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749884841/temp_image_1749884841_kdob4v.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-mold-with-bleach
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- cleaning mold with bleach
+- mold removal
+- household bleach
+- safety tips
+- mold prevention
+- non-porous surfaces
+- home maintenance
+title: How To Clean Mold With Bleach
 ---
 
 ## Conquer Mold: How To Clean Mold With Bleach Safely

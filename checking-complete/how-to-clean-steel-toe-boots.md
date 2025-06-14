@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Steel Toe Boots
-excerpt: Learn how to effectively clean steel toe boots. This guide covers deep cleaning methods, material-specific care, and odor removal tips for long-lasting work boots.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Footwear Care
-tags:
-  - steel toe boots
-  - boot cleaning
-  - work boot care
-  - leather boot cleaning
-  - boot maintenance
+excerpt: Learn how to effectively clean steel toe boots. This guide covers deep cleaning
+  methods, material-specific care, and odor removal tips for long-lasting work boots.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749885052/temp_image_1749885051_sri14u.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-steel-toe-boots
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- steel toe boots
+- boot cleaning
+- work boot care
+- leather boot cleaning
+- boot maintenance
+title: How To Clean Steel Toe Boots
 ---
 
 ## Keep Your Work Boots Pristine: How to Clean Steel Toe Boots Effectively

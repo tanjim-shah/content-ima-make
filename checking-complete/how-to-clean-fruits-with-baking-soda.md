@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Fruits With Baking Soda
-excerpt: Discover how to clean fruits with baking soda effectively, removing pesticides and dirt for healthier, safer eating with this simple guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - baking soda fruit wash
-  - clean produce
-  - pesticide removal
-  - natural cleaning
-  - food safety
+excerpt: Discover how to clean fruits with baking soda effectively, removing pesticides
+  and dirt for healthier, safer eating with this simple guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749885312/temp_image_1749885312_vxke5l.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-fruits-with-baking-soda
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- baking soda fruit wash
+- clean produce
+- pesticide removal
+- natural cleaning
+- food safety
+title: How To Clean Fruits With Baking Soda
 ---
 
 ## Unlock Cleaner Produce: How To Clean Fruits With Baking Soda

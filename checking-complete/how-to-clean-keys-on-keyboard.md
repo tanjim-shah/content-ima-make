@@ -1,17 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Keys On Keyboard
-excerpt: Discover how to clean keys on keyboard effectively for improved hygiene and functionality. Our comprehensive guide offers step-by-step methods and maintenance tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Electronics Maintenance
-tags:
-  - how to clean keys on keyboard
-  - keyboard cleaning
-  - keycap cleaning
-  - hygiene tips
-  - computer maintenance
+excerpt: Discover how to clean keys on keyboard effectively for improved hygiene and
+  functionality. Our comprehensive guide offers step-by-step methods and maintenance
+  tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749885303/temp_image_1749885303_psozsx.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-keys-on-keyboard
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- how to clean keys on keyboard
+- keyboard cleaning
+- keycap cleaning
+- hygiene tips
+- computer maintenance
+title: How To Clean Keys On Keyboard
 ---
 
 ## Mastering Keyboard Hygiene: How to Clean Keys for Peak Performance

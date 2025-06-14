@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Dishwasher With Vinegar And Baking Soda
-excerpt: Discover how to effortlessly clean your dishwasher with vinegar and baking soda, ensuring sparkling dishes and a fresh-smelling appliance.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Appliance Care
-tags:
-  - dishwasher cleaning
-  - vinegar cleaning
-  - baking soda cleaning
-  - natural cleaning
-  - appliance maintenance
-  - kitchen cleaning
-  - eco-friendly home
+excerpt: Discover how to effortlessly clean your dishwasher with vinegar and baking
+  soda, ensuring sparkling dishes and a fresh-smelling appliance.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749885347/temp_image_1749885347_eghhjo.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-dishwasher-with-vinegar-and-baking-soda
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- dishwasher cleaning
+- vinegar cleaning
+- baking soda cleaning
+- natural cleaning
+- appliance maintenance
+- kitchen cleaning
+- eco-friendly home
+title: How To Clean Dishwasher With Vinegar And Baking Soda
 ---
 
 ## Effortlessly Clean Dishwasher with Vinegar and Baking Soda
