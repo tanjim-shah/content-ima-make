@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Mold Under Sink
-excerpt: Learn how to effectively clean mold under your sink with simple steps. Discover safe methods to remove mold and prevent its return for a healthier home.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - mold removal
-  - under sink cleaning
-  - DIY mold solutions
-  - moisture control
-  - home sanitation
-  - mold prevention
+excerpt: Learn how to effectively clean mold under your sink with simple steps. Discover
+  safe methods to remove mold and prevent its return for a healthier home.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892415/temp_image_1749892414_p02yiy.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-mold-under-sink
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- mold removal
+- under sink cleaning
+- DIY mold solutions
+- moisture control
+- home sanitation
+- mold prevention
+title: How To Clean Mold Under Sink
 ---
 
 ## Discover How to Clean Mold Under Your Sink Safely

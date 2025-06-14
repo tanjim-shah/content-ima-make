@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Scuff Marks Off Walls
-excerpt: Learn how to effectively clean scuff marks off walls using gentle, household solutions and proven techniques for various wall types.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - wall cleaning
-  - remove scuffs
-  - painted walls
-  - DIY cleaning
+excerpt: Learn how to effectively clean scuff marks off walls using gentle, household
+  solutions and proven techniques for various wall types.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892458/temp_image_1749892458_xpmtfj.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-scuff-marks-off-walls
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- wall cleaning
+- remove scuffs
+- painted walls
+- DIY cleaning
+title: How To Clean Scuff Marks Off Walls
 ---
 
 ## How to Easily Clean Scuff Marks Off Walls

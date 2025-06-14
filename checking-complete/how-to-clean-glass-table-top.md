@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Glass Table Top
-excerpt: Learn how to clean your glass table top effectively, remove streaks and stubborn stains, and keep it sparkling with easy DIY methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - glass cleaning
-  - streak-free
-  - table care
-  - DIY cleaning
-  - household tips
-  - home maintenance
+excerpt: Learn how to clean your glass table top effectively, remove streaks and stubborn
+  stains, and keep it sparkling with easy DIY methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892514/temp_image_1749892514_jzx5ui.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-glass-table-top
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- glass cleaning
+- streak-free
+- table care
+- DIY cleaning
+- household tips
+- home maintenance
+title: How To Clean Glass Table Top
 ---
 
 ## Mastering the Art of Cleaning Your Glass Table Top

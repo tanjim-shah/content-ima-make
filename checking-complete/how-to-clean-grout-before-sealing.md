@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Grout Before Sealing
-excerpt: Learn how to clean grout before sealing with this comprehensive guide. Get tips on essential tools, methods, and choosing the right cleaners for best results.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - grout cleaning
-  - tile maintenance
-  - sealing grout
-  - DIY cleaning
-  - grout care
+excerpt: Learn how to clean grout before sealing with this comprehensive guide. Get
+  tips on essential tools, methods, and choosing the right cleaners for best results.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892424/temp_image_1749892423_cnapyr.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-grout-before-sealing
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- grout cleaning
+- tile maintenance
+- sealing grout
+- DIY cleaning
+- grout care
+title: How To Clean Grout Before Sealing
 ---
 
 ## Clean Grout Before Sealing: Your Essential Guide

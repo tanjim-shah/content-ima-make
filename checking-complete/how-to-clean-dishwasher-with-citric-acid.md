@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Dishwasher With Citric Acid
-excerpt: Discover how to clean your dishwasher with citric acid for a sparkling, fresh appliance. Remove limescale, odors, and hard water stains naturally.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - dishwasher cleaning
-  - citric acid
-  - natural cleaning
-  - appliance maintenance
-  - hard water removal
+excerpt: Discover how to clean your dishwasher with citric acid for a sparkling, fresh
+  appliance. Remove limescale, odors, and hard water stains naturally.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892341/temp_image_1749892340_dpp9ae.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-dishwasher-with-citric-acid
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- dishwasher cleaning
+- citric acid
+- natural cleaning
+- appliance maintenance
+- hard water removal
+title: How To Clean Dishwasher With Citric Acid
 ---
 
 ## Unlock a Sparkling Clean Dishwasher with Citric Acid

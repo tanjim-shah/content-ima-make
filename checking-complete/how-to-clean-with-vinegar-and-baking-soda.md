@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean With Vinegar And Baking Soda
-excerpt: Discover how to clean with vinegar and baking soda, two natural powerhouses, for an eco-friendly and effective home cleaning routine.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - natural cleaning
-  - eco-friendly cleaners
-  - DIY cleaning solutions
-  - baking soda uses
-  - vinegar uses
-  - household hacks
+excerpt: Discover how to clean with vinegar and baking soda, two natural powerhouses,
+  for an eco-friendly and effective home cleaning routine.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749891699/temp_image_1749891698_eavy7t.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-with-vinegar-and-baking-soda
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- natural cleaning
+- eco-friendly cleaners
+- DIY cleaning solutions
+- baking soda uses
+- vinegar uses
+- household hacks
+title: How To Clean With Vinegar And Baking Soda
 ---
 
 ## Natural Power: How To Clean With Vinegar And Baking Soda

@@ -1,20 +1,21 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Grease From Kitchen Cabinets
-excerpt: Learn how to clean grease from kitchen cabinets effectively using simple household items and powerful degreasers for a sparkling, fresh kitchen.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - kitchen cabinet cleaning
-  - grease removal
-  - cabinet degreasing
-  - kitchen maintenance
-  - wood cabinet care
-  - DIY cleaning solutions
-  - stubborn grease
-  - kitchen cleanliness
+excerpt: Learn how to clean grease from kitchen cabinets effectively using simple
+  household items and powerful degreasers for a sparkling, fresh kitchen.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892306/temp_image_1749892305_zdxcpb.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-grease-from-kitchen-cabinets
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- kitchen cabinet cleaning
+- grease removal
+- cabinet degreasing
+- kitchen maintenance
+- wood cabinet care
+- DIY cleaning solutions
+- stubborn grease
+- kitchen cleanliness
+title: How To Clean Grease From Kitchen Cabinets
 ---
 
 ## How to Clean Grease from Kitchen Cabinets: A Complete Guide

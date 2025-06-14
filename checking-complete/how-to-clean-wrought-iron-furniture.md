@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Wrought Iron Furniture
-excerpt: Discover how to clean wrought iron furniture, remove rust, and protect it for lasting beauty. Our guide covers simple steps and essential tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - wrought iron care
-  - furniture cleaning
-  - rust removal
-  - outdoor furniture
+excerpt: Discover how to clean wrought iron furniture, remove rust, and protect it
+  for lasting beauty. Our guide covers simple steps and essential tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749891935/temp_image_1749891934_vdjomn.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-wrought-iron-furniture
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- wrought iron care
+- furniture cleaning
+- rust removal
+- outdoor furniture
+title: How To Clean Wrought Iron Furniture
 ---
 
 ## Enhance Your Home: How To Clean Wrought Iron Furniture

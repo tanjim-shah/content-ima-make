@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Hot Tub With Vinegar
-excerpt: Learn how to clean your hot tub effectively with natural vinegar. This guide covers deep cleaning, purging, and regular maintenance for a sparkling spa.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - hot tub cleaning
-  - vinegar cleaning
-  - natural cleaning
-  - spa maintenance
-  - DIY cleaning
+excerpt: Learn how to clean your hot tub effectively with natural vinegar. This guide
+  covers deep cleaning, purging, and regular maintenance for a sparkling spa.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892439/temp_image_1749892438_gck7mn.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-hot-tub-with-vinegar
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- hot tub cleaning
+- vinegar cleaning
+- natural cleaning
+- spa maintenance
+- DIY cleaning
+title: How To Clean Hot Tub With Vinegar
 ---
 
 ## Unlock a Sparkling Hot Tub: How to Clean with Vinegar

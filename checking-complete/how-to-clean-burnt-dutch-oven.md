@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Burnt Dutch Oven
-excerpt: Learn how to clean burnt Dutch oven safely. Use simple ingredients like baking soda and vinegar to restore your cookware.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - Dutch oven cleaning
-  - burnt pot cleaning
-  - cast iron care
-  - kitchen cleaning tips
-  - stubborn stains
+excerpt: Learn how to clean burnt Dutch oven safely. Use simple ingredients like baking
+  soda and vinegar to restore your cookware.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749892536/temp_image_1749892536_my3c3v.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-burnt-dutch-oven
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- Dutch oven cleaning
+- burnt pot cleaning
+- cast iron care
+- kitchen cleaning tips
+- stubborn stains
+title: How To Clean Burnt Dutch Oven
 ---
 
 ## How To Clean Burnt Dutch Oven Safely and Effectively
