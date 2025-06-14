@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Leather Flip Flops - A Complete Guide
-excerpt: Learn how to clean leather flip flops with expert tips. Remove dirt, stains, and odors, and keep your favorite footwear fresh.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Footwear Care
-tags:
-  - leather cleaning
-  - flip flop care
-  - shoe maintenance
+excerpt: Learn how to clean leather flip flops with expert tips. Remove dirt, stains,
+  and odors, and keep your favorite footwear fresh.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749916934/temp_image_1749916934_pdxz2e.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-leather-flip-flops
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- leather cleaning
+- flip flop care
+- shoe maintenance
+title: How To Clean Leather Flip Flops - A Complete Guide
 ---
 
 ## How To Clean Leather Flip Flops: A Complete Guide

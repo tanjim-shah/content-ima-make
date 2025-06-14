@@ -1,15 +1,17 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Hair With Apple Cider Vinegar
-excerpt: Discover how to clean hair with apple cider vinegar. Learn the benefits, proper dilution, and step-by-step methods for a natural, healthy scalp and shiny hair.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Hair Care
-tags:
-  - Apple Cider Vinegar
-  - Hair Cleanse
-  - Natural Hair Care
+excerpt: Discover how to clean hair with apple cider vinegar. Learn the benefits,
+  proper dilution, and step-by-step methods for a natural, healthy scalp and shiny
+  hair.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749917054/temp_image_1749917054_o0uxxb.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-hair-with-apple-cider-vinegar
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- Apple Cider Vinegar
+- Hair Cleanse
+- Natural Hair Care
+title: How To Clean Hair With Apple Cider Vinegar
 ---
 
 ## Clean Hair Naturally with Apple Cider Vinegar

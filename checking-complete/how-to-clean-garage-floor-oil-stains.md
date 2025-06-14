@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Garage Floor Oil Stains
-excerpt: Learn how to clean garage floor oil stains effectively. Remove fresh spills and old marks using proven methods, simple tools, and proper safety.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - oil stain removal
-  - garage floor cleaning
-  - concrete cleaning
-  - degreaser
-  - stain treatment
+excerpt: Learn how to clean garage floor oil stains effectively. Remove fresh spills
+  and old marks using proven methods, simple tools, and proper safety.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749917385/temp_image_1749917385_hscjkf.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-garage-floor-oil-stains
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- oil stain removal
+- garage floor cleaning
+- concrete cleaning
+- degreaser
+- stain treatment
+title: How To Clean Garage Floor Oil Stains
 ---
 
 ## Unlock a Spotless Garage: How To Clean Garage Floor Oil Stains
