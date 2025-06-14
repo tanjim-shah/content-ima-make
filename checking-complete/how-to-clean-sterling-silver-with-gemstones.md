@@ -1,19 +1,21 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Sterling Silver With Gemstones
-excerpt: Learn how to clean sterling silver with gemstones safely and effectively. Restore your jewelry's sparkle using gentle methods and home essentials for lasting shine.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Jewelry Care
-tags:
-  - sterling silver cleaning
-  - gemstone care
-  - jewelry maintenance
-  - tarnish removal
-  - DIY cleaning
-  - home essentials
-  - silver polishing
+excerpt: Learn how to clean sterling silver with gemstones safely and effectively.
+  Restore your jewelry's sparkle using gentle methods and home essentials for lasting
+  shine.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882384/temp_image_1749882384_wsaxng.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-sterling-silver-with-gemstones
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- sterling silver cleaning
+- gemstone care
+- jewelry maintenance
+- tarnish removal
+- DIY cleaning
+- home essentials
+- silver polishing
+title: How To Clean Sterling Silver With Gemstones
 ---
 
 ## Unlock the Sparkle: Cleaning Sterling Silver with Gemstones

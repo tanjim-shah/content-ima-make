@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Nails With Toothpaste
-excerpt: Discover how to clean nails with toothpaste, a simple and effective home remedy for brighter, healthier-looking nails. Learn the method and benefits.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Personal Care
-tags:
-  - Nail Cleaning
-  - Toothpaste Hacks
-  - Home Remedies
-  - Natural Cleaning
-  - DIY Beauty
-  - Healthy Nails
+excerpt: Discover how to clean nails with toothpaste, a simple and effective home
+  remedy for brighter, healthier-looking nails. Learn the method and benefits.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882864/temp_image_1749882864_p2vsma.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-nails-with-toothpaste
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Nail Cleaning
+- Toothpaste Hacks
+- Home Remedies
+- Natural Cleaning
+- DIY Beauty
+- Healthy Nails
+title: How To Clean Nails With Toothpaste
 ---
 
 ## Brighten Your Nails: How To Clean Nails With Toothpaste

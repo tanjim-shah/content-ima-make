@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Mold Around Air Vents
-excerpt: Learn how to clean mold around air vents safely and effectively. Improve indoor air quality and prevent future mold growth.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - mold around air vents
-  - air vent mold removal
-  - HVAC mold
-  - home cleaning tips
-  - indoor air quality
+excerpt: Learn how to clean mold around air vents safely and effectively. Improve
+  indoor air quality and prevent future mold growth.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882540/temp_image_1749882539_khes5s.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-mold-around-air-vents
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- mold around air vents
+- air vent mold removal
+- HVAC mold
+- home cleaning tips
+- indoor air quality
+title: How To Clean Mold Around Air Vents
 ---
 
 ## How To Clean Mold Around Air Vents Safely & Effectively

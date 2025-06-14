@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Golf Cart Batteries
-excerpt: Learn how to clean golf cart batteries safely and effectively. Remove corrosion, restore power, and extend battery life with our detailed guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Vehicle Maintenance
-tags:
-  - golf cart battery maintenance
-  - battery corrosion removal
-  - lead-acid battery care
+excerpt: Learn how to clean golf cart batteries safely and effectively. Remove corrosion,
+  restore power, and extend battery life with our detailed guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882771/temp_image_1749882771_ggqxd9.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-golf-cart-batteries
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- golf cart battery maintenance
+- battery corrosion removal
+- lead-acid battery care
+title: How To Clean Golf Cart Batteries
 ---
 
 ## The Essential Guide to Cleaning Golf Cart Batteries

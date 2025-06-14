@@ -1,22 +1,23 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Carburetor On Stihl Hedge Trimmer
-excerpt: Is your Stihl hedge trimmer struggling? Learn how to clean carburetor on Stihl hedge trimmer step-by-step. Restore power and fix idling issues with our guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: DIY Repair
-tags:
-  - Stihl
-  - hedge trimmer
-  - carburetor
-  - cleaning
-  - maintenance
-  - DIY
-  - small engine
-  - fuel system
-  - repair
-  - engine problems
+excerpt: Is your Stihl hedge trimmer struggling? Learn how to clean carburetor on
+  Stihl hedge trimmer step-by-step. Restore power and fix idling issues with our guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882928/temp_image_1749882928_u7wgrb.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-carburetor-on-stihl-hedge-trimmer
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- Stihl
+- hedge trimmer
+- carburetor
+- cleaning
+- maintenance
+- DIY
+- small engine
+- fuel system
+- repair
+- engine problems
+title: How To Clean Carburetor On Stihl Hedge Trimmer
 ---
 
 ## How To Clean Carburetor On Stihl Hedge Trimmer

@@ -1,18 +1,20 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Cement Floor Stains
-excerpt: Learn how to clean cement floor stains effectively. This comprehensive guide covers common stains like oil, rust, and mold, offering DIY and advanced cleaning solutions for spotless concrete.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Cleaning Tips
-tags:
-  - cement floor cleaning
-  - concrete stain removal
-  - DIY cleaning
-  - garage floor stains
-  - floor care
-  - stain removal
+excerpt: Learn how to clean cement floor stains effectively. This comprehensive guide
+  covers common stains like oil, rust, and mold, offering DIY and advanced cleaning
+  solutions for spotless concrete.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882254/temp_image_1749882254_gzetn0.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-cement-floor-stains
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- cement floor cleaning
+- concrete stain removal
+- DIY cleaning
+- garage floor stains
+- floor care
+- stain removal
+title: How To Clean Cement Floor Stains
 ---
 
 ## Clean Cement Floor Stains: A Comprehensive Guide

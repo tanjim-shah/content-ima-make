@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Wash A Military Wool Blanket
-excerpt: Learn how to wash a military wool blanket properly. Keep your durable blanket clean and soft with our expert guide to gentle washing methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - wool blanket care
-  - military blanket cleaning
-  - how to wash wool
-  - laundry tips
-  - blanket maintenance
+excerpt: Learn how to wash a military wool blanket properly. Keep your durable blanket
+  clean and soft with our expert guide to gentle washing methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882418/temp_image_1749882418_rmzeio.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-wash-a-military-wool-blanket
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- wool blanket care
+- military blanket cleaning
+- how to wash wool
+- laundry tips
+- blanket maintenance
+title: How To Wash A Military Wool Blanket
 ---
 
 ## How To Wash A Military Wool Blanket

@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Grill With Onion
-excerpt: Discover how to clean grill with onion for sparkling grates. This natural, effective method removes grime for safer, tastier BBQ.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Grilling Tips
-tags:
-  - Grill cleaning
-  - Natural cleaning
-  - Onion grill cleaner
+excerpt: Discover how to clean grill with onion for sparkling grates. This natural,
+  effective method removes grime for safer, tastier BBQ.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882813/temp_image_1749882813_hvcl3p.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-grill-with-onion
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Grill cleaning
+- Natural cleaning
+- Onion grill cleaner
+title: How To Clean Grill With Onion
 ---
 
 ## Master How to Clean Your Grill with an Onion

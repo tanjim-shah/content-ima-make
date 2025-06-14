@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Pressure Treated Wood
-excerpt: Discover how to effectively clean pressure treated wood, removing dirt, mold, and stains to restore its natural beauty and extend its lifespan.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Outdoor Home Maintenance
-tags:
-  - pressure treated wood
-  - wood cleaning
-  - deck maintenance
-  - outdoor wood care
+excerpt: Discover how to effectively clean pressure treated wood, removing dirt, mold,
+  and stains to restore its natural beauty and extend its lifespan.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882375/temp_image_1749882374_mpceff.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-pressure-treated-wood
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- pressure treated wood
+- wood cleaning
+- deck maintenance
+- outdoor wood care
+title: How To Clean Pressure Treated Wood
 ---
 
 ## Restore Your Deck: How To Clean Pressure Treated Wood

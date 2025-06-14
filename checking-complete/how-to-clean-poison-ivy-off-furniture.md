@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Poison Ivy Off Furniture
-excerpt: Learn how to safely clean poison ivy (urushiol) off furniture using simple methods. Protect your skin and home from this common irritant.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - poison ivy cleaning
-  - furniture care
-  - urushiol removal
-  - outdoor furniture
-  - skin irritation
+excerpt: Learn how to safely clean poison ivy (urushiol) off furniture using simple
+  methods. Protect your skin and home from this common irritant.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749882449/temp_image_1749882449_i29qg3.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-poison-ivy-off-furniture
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- poison ivy cleaning
+- furniture care
+- urushiol removal
+- outdoor furniture
+- skin irritation
+title: How To Clean Poison Ivy Off Furniture
 ---
 
 ## Safely Cleaning Poison Ivy from Your Furniture
