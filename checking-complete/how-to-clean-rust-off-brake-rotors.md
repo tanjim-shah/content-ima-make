@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Rust Off Brake Rotors
-excerpt: Learn how to clean rust off brake rotors quickly and safely. Restore brake performance and appearance with simple DIY methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Vehicle Maintenance
-tags:
-  - brake rotor rust
-  - car rust removal
-  - automotive care
-  - DIY car repair
-  - brake cleaning
+excerpt: Learn how to clean rust off brake rotors quickly and safely. Restore brake
+  performance and appearance with simple DIY methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749909398/temp_image_1749909398_ofhvgi.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-rust-off-brake-rotors
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- brake rotor rust
+- car rust removal
+- automotive care
+- DIY car repair
+- brake cleaning
+title: How To Clean Rust Off Brake Rotors
 ---
 
 ## How to Clean Rust Off Brake Rotors
