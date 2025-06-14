@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Garage Concrete Floor
-excerpt: Learn how to clean garage concrete floor effectively. Our guide covers tools, methods, and stain removal for a spotless, well-maintained garage.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - garage cleaning
-  - concrete floor cleaning
-  - oil stain removal
-  - garage maintenance
-  - DIY cleaning
+excerpt: Learn how to clean garage concrete floor effectively. Our guide covers tools,
+  methods, and stain removal for a spotless, well-maintained garage.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749913889/temp_image_1749913888_mkmm54.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-garage-concrete-floor
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- garage cleaning
+- concrete floor cleaning
+- oil stain removal
+- garage maintenance
+- DIY cleaning
+title: How To Clean Garage Concrete Floor
 ---
 
 ## Mastering Your Garage Floor: How To Clean Garage Concrete Floor
