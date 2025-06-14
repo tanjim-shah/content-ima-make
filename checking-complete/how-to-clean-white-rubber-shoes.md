@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean White Rubber Shoes
-excerpt: Learn how to clean white rubber shoes effectively. Restore their bright, new look with simple methods and common household items.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Footwear Care
-tags:
-  - white shoe cleaning
-  - rubber shoe care
-  - shoe maintenance
-  - footwear cleaning
-  - stain removal
-  - shoe restoration
+excerpt: Learn how to clean white rubber shoes effectively. Restore their bright,
+  new look with simple methods and common household items.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899703/temp_image_1749899702_udlvpz.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-white-rubber-shoes
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- white shoe cleaning
+- rubber shoe care
+- shoe maintenance
+- footwear cleaning
+- stain removal
+- shoe restoration
+title: How To Clean White Rubber Shoes
 ---
 
 ## Restore Your Shine: How To Clean White Rubber Shoes

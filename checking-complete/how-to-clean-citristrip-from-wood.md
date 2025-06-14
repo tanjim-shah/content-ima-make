@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Citristrip From Wood
-excerpt: Effectively clean Citristrip from wood using safe methods. Learn how to remove residue, neutralize surfaces, and prepare wood for a fresh finish.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Wood Care
-tags:
-  - wood stripping
-  - Citristrip removal
-  - wood cleaner
-  - residue cleanup
-  - furniture restoration
+excerpt: Effectively clean Citristrip from wood using safe methods. Learn how to remove
+  residue, neutralize surfaces, and prepare wood for a fresh finish.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899590/temp_image_1749899589_bsksmt.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-citristrip-from-wood
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- wood stripping
+- Citristrip removal
+- wood cleaner
+- residue cleanup
+- furniture restoration
+title: How To Clean Citristrip From Wood
 ---
 
 ## Restore Wood: How To Clean Citristrip Residue

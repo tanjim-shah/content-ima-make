@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Gas Oven Grates
-excerpt: Learn effective methods to clean gas oven grates and remove tough grease or baked-on food. Restore shine with natural and commercial solutions.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Kitchen Maintenance
-tags:
-  - oven cleaning
-  - gas stove cleaning
-  - appliance care
-  - kitchen cleaning tips
-  - oven grate maintenance
-  - deep cleaning
+excerpt: Learn effective methods to clean gas oven grates and remove tough grease
+  or baked-on food. Restore shine with natural and commercial solutions.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899053/temp_image_1749899052_i2zbsz.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-gas-oven-grates
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- oven cleaning
+- gas stove cleaning
+- appliance care
+- kitchen cleaning tips
+- oven grate maintenance
+- deep cleaning
+title: How To Clean Gas Oven Grates
 ---
 
 ## Mastering How to Clean Gas Oven Grates for a Sparkling Kitchen

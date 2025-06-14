@@ -1,15 +1,17 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Print Head On Epson Printer
-excerpt: Restore clear prints! Learn how to clean print head on Epson printer with our comprehensive guide. Fix clogged nozzles, improve print quality, and extend printer life today.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Printer Maintenance
-tags:
-  - Epson printer
-  - Print head cleaning
-  - Printer troubleshooting
+excerpt: Restore clear prints! Learn how to clean print head on Epson printer with
+  our comprehensive guide. Fix clogged nozzles, improve print quality, and extend
+  printer life today.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899189/temp_image_1749899188_izjhwp.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-print-head-on-epson-printer
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- Epson printer
+- Print head cleaning
+- Printer troubleshooting
+title: How To Clean Print Head On Epson Printer
 ---
 
 ## Restore Crisp Prints: How To Clean Print Head On Epson Printer

@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Marc Jacobs Tote Bag
-excerpt: Discover how to clean your Marc Jacobs tote bag effectively. Learn material-specific care for canvas, leather, and nylon to remove stains and keep your bag looking new.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Cleaning Guides
-tags:
-  - Marc Jacobs
-  - tote bag cleaning
-  - bag care
-  - luxury bag cleaning
-  - canvas bag cleaning
-  - leather bag care
-  - stain removal
+excerpt: Discover how to clean your Marc Jacobs tote bag effectively. Learn material-specific
+  care for canvas, leather, and nylon to remove stains and keep your bag looking new.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899653/temp_image_1749899653_f6rjvl.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-marc-jacobs-tote-bag
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- Marc Jacobs
+- tote bag cleaning
+- bag care
+- luxury bag cleaning
+- canvas bag cleaning
+- leather bag care
+- stain removal
+title: How To Clean Marc Jacobs Tote Bag
 ---
 
 ## How To Clean Your Marc Jacobs Tote Bag for Lasting Style

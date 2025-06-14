@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Wash A Down Jacket
-excerpt: Learn how to wash a down jacket properly to maintain its warmth, loft, and extend its lifespan with our simple, step-by-step guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Apparel Care
-tags:
-  - down jacket care
-  - laundry tips
-  - washing down
-  - jacket cleaning
-  - winter jacket maintenance
+excerpt: Learn how to wash a down jacket properly to maintain its warmth, loft, and
+  extend its lifespan with our simple, step-by-step guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899568/temp_image_1749899568_tdeznh.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-wash-a-down-jacket
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- down jacket care
+- laundry tips
+- washing down
+- jacket cleaning
+- winter jacket maintenance
+title: How To Wash A Down Jacket
 ---
 
 ## Wash Your Down Jacket: A Step-by-Step Guide for Lasting Warmth

@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Epoxy Garage Floor
-excerpt: Learn how to clean epoxy garage floors effectively. Keep your garage looking new with our easy-to-follow steps for spotless epoxy surfaces.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - epoxy floor
-  - garage cleaning
-  - floor maintenance
-  - oil stains
-  - cleaning tips
-  - concrete epoxy
-  - DIY cleaning
+excerpt: Learn how to clean epoxy garage floors effectively. Keep your garage looking
+  new with our easy-to-follow steps for spotless epoxy surfaces.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899441/temp_image_1749899440_efyptl.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-epoxy-garage-floor
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- epoxy floor
+- garage cleaning
+- floor maintenance
+- oil stains
+- cleaning tips
+- concrete epoxy
+- DIY cleaning
+title: How To Clean Epoxy Garage Floor
 ---
 
 ## Keeping Your Garage Spotless: How to Clean Epoxy Floors

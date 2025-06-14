@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Melted Plastic From Dishwasher
-excerpt: Learn how to clean melted plastic from your dishwasher effectively and safely. Our guide shows step-by-step methods for removing plastic residue and odors.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Appliance Care
-tags:
-  - melted plastic
-  - dishwasher cleaning
-  - plastic removal
-  - home maintenance
-  - DIY cleaning
+excerpt: Learn how to clean melted plastic from your dishwasher effectively and safely.
+  Our guide shows step-by-step methods for removing plastic residue and odors.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899643/temp_image_1749899643_f0tl3p.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-melted-plastic-from-dishwasher
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- melted plastic
+- dishwasher cleaning
+- plastic removal
+- home maintenance
+- DIY cleaning
+title: How To Clean Melted Plastic From Dishwasher
 ---
 
 ## How To Clean Melted Plastic From Dishwasher

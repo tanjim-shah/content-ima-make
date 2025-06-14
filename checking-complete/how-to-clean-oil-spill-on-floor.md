@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Oil Spill On Floor
-excerpt: Learn how to effectively clean oil spills on your floor. Discover quick methods, essential materials, and specialized techniques for various floor types.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - oil spill clean-up
-  - floor cleaning
-  - oil stain removal
-  - household degreaser
-  - concrete cleaning
+excerpt: Learn how to effectively clean oil spills on your floor. Discover quick methods,
+  essential materials, and specialized techniques for various floor types.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749899174/temp_image_1749899174_yhhitg.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-oil-spill-on-floor
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- oil spill clean-up
+- floor cleaning
+- oil stain removal
+- household degreaser
+- concrete cleaning
+title: How To Clean Oil Spill On Floor
 ---
 
 ## A Comprehensive Guide to Cleaning Oil Spills on Floors
