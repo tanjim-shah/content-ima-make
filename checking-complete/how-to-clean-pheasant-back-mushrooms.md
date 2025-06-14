@@ -1,17 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Pheasant Back Mushrooms
-excerpt: Learn how to clean pheasant back mushrooms effectively. Discover essential techniques for preparing these wild delicacies, ensuring they are ready for your culinary adventures.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Kitchen & Cooking
-tags:
-  - pheasant back mushrooms
-  - cleaning mushrooms
-  - mushroom preparation
-  - foraging tips
-  - wild mushrooms
+excerpt: Learn how to clean pheasant back mushrooms effectively. Discover essential
+  techniques for preparing these wild delicacies, ensuring they are ready for your
+  culinary adventures.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888843/temp_image_1749888843_lwzyen.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-pheasant-back-mushrooms
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- pheasant back mushrooms
+- cleaning mushrooms
+- mushroom preparation
+- foraging tips
+- wild mushrooms
+title: How To Clean Pheasant Back Mushrooms
 ---
 
 ## Cleaning Pheasant Back Mushrooms: A Forager's Guide

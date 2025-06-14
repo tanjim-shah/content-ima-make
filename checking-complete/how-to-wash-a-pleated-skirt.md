@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Wash A Pleated Skirt
-excerpt: Learn how to wash a pleated skirt properly. This guide covers hand washing, machine washing, drying, and maintaining perfect pleats for your skirts.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Clothing Care
-tags:
-  - pleated skirt care
-  - skirt washing
-  - maintain pleats
-  - delicate fabric washing
-  - garment care
+excerpt: Learn how to wash a pleated skirt properly. This guide covers hand washing,
+  machine washing, drying, and maintaining perfect pleats for your skirts.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888733/temp_image_1749888733_w1p71c.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-wash-a-pleated-skirt
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- pleated skirt care
+- skirt washing
+- maintain pleats
+- delicate fabric washing
+- garment care
+title: How To Wash A Pleated Skirt
 ---
 
 ## Wash Your Pleated Skirt: A Complete Care Guide

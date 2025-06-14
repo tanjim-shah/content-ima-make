@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Strawberries To Last Longer
-excerpt: Learn how to clean strawberries effectively to make them last longer. Discover simple washing methods and storage tips for fresh, delicious berries.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Kitchen Hacks
-tags:
-  - strawberry cleaning
-  - food preservation
-  - fresh produce storage
+excerpt: Learn how to clean strawberries effectively to make them last longer. Discover
+  simple washing methods and storage tips for fresh, delicious berries.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888951/temp_image_1749888951_bt8vhh.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-strawberries-to-last-longer
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- strawberry cleaning
+- food preservation
+- fresh produce storage
+title: How To Clean Strawberries To Last Longer
 ---
 
 ## Clean Strawberries: Make Them Last Longer

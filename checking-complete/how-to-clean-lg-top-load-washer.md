@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Lg Top Load Washer
-excerpt: Discover how to thoroughly clean your LG top load washer. Remove odors, mildew, and grime for fresh, efficient laundry results.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Appliances, Cleaning, Laundry
-tags:
-  - LG washer
-  - top load washer
-  - clean washing machine
-  - laundry care
-  - appliance maintenance
-  - mold removal
-  - odor removal
+excerpt: Discover how to thoroughly clean your LG top load washer. Remove odors, mildew,
+  and grime for fresh, efficient laundry results.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888496/temp_image_1749888495_e1psae.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-lg-top-load-washer
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- LG washer
+- top load washer
+- clean washing machine
+- laundry care
+- appliance maintenance
+- mold removal
+- odor removal
+title: How To Clean Lg Top Load Washer
 ---
 
 ## Deep Clean Your LG Top Load Washer: A Complete Guide

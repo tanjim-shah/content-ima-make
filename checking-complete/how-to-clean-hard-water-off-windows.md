@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Hard Water Off Windows
-excerpt: Uncover the best ways to clean hard water off windows for streak-free, sparkling panes. Learn effective DIY solutions and commercial products.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - hard water stains
-  - window cleaning
-  - DIY cleaning
-  - glass care
+excerpt: Uncover the best ways to clean hard water off windows for streak-free, sparkling
+  panes. Learn effective DIY solutions and commercial products.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888248/temp_image_1749888247_j57pn3.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-hard-water-off-windows
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- hard water stains
+- window cleaning
+- DIY cleaning
+- glass care
+title: How To Clean Hard Water Off Windows
 ---
 
 ## How To Clean Hard Water Off Windows: Get Sparkling Panes

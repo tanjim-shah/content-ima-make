@@ -1,19 +1,21 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Asphalt Shingle Roof
-excerpt: Discover how to safely clean asphalt shingle roofs, removing unsightly algae and moss while protecting your home's most vital shield. Learn effective DIY soft washing methods and prevention tips for a long-lasting roof.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - asphalt shingle roof cleaning
-  - roof cleaning methods
-  - shingle maintenance
-  - soft wash roof
-  - algae removal roof
-  - mold on roof
-  - roof care
+excerpt: Discover how to safely clean asphalt shingle roofs, removing unsightly algae
+  and moss while protecting your home's most vital shield. Learn effective DIY soft
+  washing methods and prevention tips for a long-lasting roof.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888930/temp_image_1749888930_hw6a0i.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-asphalt-shingle-roof
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- asphalt shingle roof cleaning
+- roof cleaning methods
+- shingle maintenance
+- soft wash roof
+- algae removal roof
+- mold on roof
+- roof care
+title: How To Clean Asphalt Shingle Roof
 ---
 
 ## How To Clean Asphalt Shingle Roof Safely and Effectively

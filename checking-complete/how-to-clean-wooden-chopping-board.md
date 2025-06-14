@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Wooden Chopping Board
-excerpt: Learn how to clean your wooden chopping board effectively. Keep your kitchen safe and extend your board's life with simple cleaning and care tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Kitchen Hygiene
-tags:
-  - wooden chopping board
-  - cleaning wood
-  - kitchen hygiene
-  - board care
-  - sanitizing
+excerpt: Learn how to clean your wooden chopping board effectively. Keep your kitchen
+  safe and extend your board's life with simple cleaning and care tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749888151/temp_image_1749888151_zvzay7.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-wooden-chopping-board
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- wooden chopping board
+- cleaning wood
+- kitchen hygiene
+- board care
+- sanitizing
+title: How To Clean Wooden Chopping Board
 ---
 
 ## Mastering Wooden Chopping Board Cleaning: A Comprehensive Guide
