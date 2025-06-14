@@ -2,7 +2,7 @@
 publishDate: 2025-06-11T00:00:00Z
 title: How To Clean Ac Drain Line With Air Compressor
 excerpt: Learn how to clean AC drain line with an air compressor effectively. This guide covers tools, safety, step-by-step instructions, and maintenance tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
+image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1749817490/ai-generated-1749817487549_ddcio6.webp
 category: Home Maintenance
 tags:
   - AC drain line

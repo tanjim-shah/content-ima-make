@@ -1,3 +1,4 @@
+---
 publishDate: 2025-06-11T00:00:00Z
 title: How To Clean 5 Gallon Water Bottles
 excerpt: Learn how to clean 5 gallon water bottles effectively. Discover simple methods to ensure fresh, safe water for your home or office.

@@ -6,17 +6,17 @@ image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6za
 category: Home Maintenance
 tags:
   - AC maintenance
-  - clogged drain
-  - DIY cleaning
-  - bleach
-  - HVAC troubleshooting
-metadata:
-  canonical: https://www.homeessentialsguide.com/how-to-clean-ac-drain-line-with-bleach
----
+    - clogged drain
+      - DIY cleaning
+        - bleach
+          - HVAC troubleshooting
+          metadata:
+            canonical: https://www.homeessentialsguide.com/how-to-clean-ac-drain-line-with-bleach
+            ---
 
-## How To Clean AC Drain Line With Bleach: Your Essential Guide
+            ## How To Clean AC Drain Line With Bleach: Your Essential Guide
 
-Is your air conditioner dripping water or blowing warm air? A clogged AC drain line might be the reason. This small but vital part of your home's cooling system can cause big problems when ignored. Algae, mold, and sludge build up inside the condensate drain line. This buildup blocks water flow. When water cannot drain properly, it backs up into your home. This can lead to water damage, musty odors, and even system breakdown.
+            Is your air conditioner dripping water or blowing warm air? A clogged AC drain line might be the reason. This small but vital part of your home's cooling system can cause big problems when ignored. Algae, mold, and sludge build up inside the condensate drain line. This buildup blocks water flow. When water cannot drain properly, it backs up into your home. This can lead to water damage, musty odors, and even system breakdown.
 
 I know how frustrating a malfunctioning AC can be, especially during hot weather. Cleaning the AC drain line with bleach offers an effective solution to clear these blockages. Bleach helps kill algae and mildew that cause clogs. This guide shows you how to safely and efficiently use bleach for this task. We will cover why drain lines clog, the steps for cleaning, and how to prevent future issues. Let's get your AC running smoothly again.
 
