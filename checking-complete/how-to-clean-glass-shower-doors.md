@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Glass Shower Doors
-excerpt: Learn how to clean glass shower doors effectively. Remove soap scum, hard water stains, and achieve a streak-free shine with our comprehensive guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - glass shower cleaning
-  - shower door maintenance
-  - hard water removal
-  - soap scum cleaning
+excerpt: Learn how to clean glass shower doors effectively. Remove soap scum, hard
+  water stains, and achieve a streak-free shine with our comprehensive guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749895564/temp_image_1749895564_qyq2jz.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-glass-shower-doors
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- glass shower cleaning
+- shower door maintenance
+- hard water removal
+- soap scum cleaning
+title: How To Clean Glass Shower Doors
 ---
 
 ## Sparkling Clean Glass Shower Doors: Your Ultimate Guide

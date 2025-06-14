@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Flat Paint Walls
-excerpt: Learn how to effectively clean flat paint walls without damaging their delicate finish. Discover gentle methods and solutions for a spotless home.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - flat paint
-  - wall cleaning
-  - matte finish
-  - stain removal
-  - delicate surfaces
+excerpt: Learn how to effectively clean flat paint walls without damaging their delicate
+  finish. Discover gentle methods and solutions for a spotless home.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749896149/temp_image_1749896148_ondkfs.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-flat-paint-walls
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- flat paint
+- wall cleaning
+- matte finish
+- stain removal
+- delicate surfaces
+title: How To Clean Flat Paint Walls
 ---
 
 ## Effectively Clean Flat Paint Walls for a Fresh Home

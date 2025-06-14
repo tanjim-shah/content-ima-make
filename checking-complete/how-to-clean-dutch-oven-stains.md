@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Dutch Oven Stains
-excerpt: Learn how to clean Dutch oven stains effectively. Discover easy methods for burnt food, discoloration, and rust on enamel and cast iron.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - Dutch Oven Cleaning
-  - Burnt Food Stains
-  - Enamel Care
-  - Cast Iron Maintenance
-  - Stain Removal
-  - Kitchen Cleaning
+excerpt: Learn how to clean Dutch oven stains effectively. Discover easy methods for
+  burnt food, discoloration, and rust on enamel and cast iron.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749895294/temp_image_1749895294_h6d3wg.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-dutch-oven-stains
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Dutch Oven Cleaning
+- Burnt Food Stains
+- Enamel Care
+- Cast Iron Maintenance
+- Stain Removal
+- Kitchen Cleaning
+title: How To Clean Dutch Oven Stains
 ---
 
 ## Restore Your Dutch Oven: How To Clean Stains

@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Silver Plated Tea Set
-excerpt: Learn how to clean silver plated tea sets effectively and safely. Restore shine, remove tarnish, and maintain your cherished heirlooms with simple methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - silver cleaning
-  - tea set care
-  - plated silver
-  - tarnish removal
-  - antique care
-  - home cleaning tips
+excerpt: Learn how to clean silver plated tea sets effectively and safely. Restore
+  shine, remove tarnish, and maintain your cherished heirlooms with simple methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749895411/temp_image_1749895411_jawabf.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-silver-plated-tea-set
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- silver cleaning
+- tea set care
+- plated silver
+- tarnish removal
+- antique care
+- home cleaning tips
+title: How To Clean Silver Plated Tea Set
 ---
 
 ## How To Clean Silver Plated Tea Set: Restore Its Shine

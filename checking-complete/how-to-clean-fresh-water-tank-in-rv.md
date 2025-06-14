@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Fresh Water Tank In Rv
-excerpt: Learn how to clean your RV fresh water tank with simple steps. Ensure safe, fresh drinking water on all your RV adventures.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: RV Maintenance
-tags:
-  - RV cleaning
-  - water tank sanitization
-  - RV fresh water
+excerpt: Learn how to clean your RV fresh water tank with simple steps. Ensure safe,
+  fresh drinking water on all your RV adventures.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749895855/temp_image_1749895855_dg0pxl.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-fresh-water-tank-in-rv
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- RV cleaning
+- water tank sanitization
+- RV fresh water
+title: How To Clean Fresh Water Tank In Rv
 ---
 
 ## How To Clean Fresh Water Tank In Rv

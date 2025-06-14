@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Coway Air Purifier
-excerpt: Learn how to clean your Coway air purifier effectively for better air quality. Our guide covers filter maintenance, exterior cleaning, and common tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - Coway cleaning
-  - air purifier maintenance
-  - clean air filters
+excerpt: Learn how to clean your Coway air purifier effectively for better air quality.
+  Our guide covers filter maintenance, exterior cleaning, and common tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749895957/temp_image_1749895957_zivfsy.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-coway-air-purifier
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Coway cleaning
+- air purifier maintenance
+- clean air filters
+title: How To Clean Coway Air Purifier
 ---
 
 ## Restore Fresh Air: How to Clean Your Coway Air Purifier

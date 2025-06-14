@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Shower Doors With Vinegar
-excerpt: Discover simple steps to clean shower doors with vinegar. Remove stubborn soap scum and hard water stains for a sparkling bathroom.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - vinegar cleaning
-  - shower door maintenance
-  - soap scum removal
-  - hard water stains
-  - natural cleaning
+excerpt: Discover simple steps to clean shower doors with vinegar. Remove stubborn
+  soap scum and hard water stains for a sparkling bathroom.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749896164/temp_image_1749896163_dfzfpz.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-shower-doors-with-vinegar
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- vinegar cleaning
+- shower door maintenance
+- soap scum removal
+- hard water stains
+- natural cleaning
+title: How To Clean Shower Doors With Vinegar
 ---
 
 ## Clean Your Shower Doors with Vinegar: A Simple Guide

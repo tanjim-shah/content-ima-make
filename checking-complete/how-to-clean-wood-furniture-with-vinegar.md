@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Wood Furniture With Vinegar
-excerpt: Discover how to safely clean wood furniture with vinegar. This guide covers techniques, recipes, and tips for restoring shine naturally.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - wood furniture cleaning
-  - vinegar cleaning
-  - natural wood cleaner
-  - furniture care
-  - DIY cleaning
+excerpt: Discover how to safely clean wood furniture with vinegar. This guide covers
+  techniques, recipes, and tips for restoring shine naturally.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749895594/temp_image_1749895593_tcxocn.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-wood-furniture-with-vinegar
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- wood furniture cleaning
+- vinegar cleaning
+- natural wood cleaner
+- furniture care
+- DIY cleaning
+title: How To Clean Wood Furniture With Vinegar
 ---
 
 ## Restore Your Wood Furniture with Vinegar: A Natural Cleaning Guide
