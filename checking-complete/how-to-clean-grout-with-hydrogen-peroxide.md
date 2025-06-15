@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Grout With Hydrogen Peroxide
-excerpt: Discover how to effectively clean grout with hydrogen peroxide, restoring brightness and tackling grime with simple, safe methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - grout cleaning
-  - hydrogen peroxide uses
-  - tile maintenance
-  - home essentials
-  - DIY cleaning
+excerpt: Discover how to effectively clean grout with hydrogen peroxide, restoring
+  brightness and tackling grime with simple, safe methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749986005/temp_image_1749986005_a2iyxv.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-grout-with-hydrogen-peroxide
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- grout cleaning
+- hydrogen peroxide uses
+- tile maintenance
+- home essentials
+- DIY cleaning
+title: How To Clean Grout With Hydrogen Peroxide
 ---
 
 ## Brighten Your Grout: How To Clean Grout With Hydrogen Peroxide

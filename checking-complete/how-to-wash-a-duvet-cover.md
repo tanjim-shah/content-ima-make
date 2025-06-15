@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Wash A Duvet Cover
-excerpt: Learn how to wash a duvet cover correctly. Get expert tips on machine and hand washing, drying, and fabric care to keep your bedding fresh and clean.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - duvet care
-  - laundry tips
-  - bedding cleaning
-  - fabric care
-  - machine washing
-  - hand washing
+excerpt: Learn how to wash a duvet cover correctly. Get expert tips on machine and
+  hand washing, drying, and fabric care to keep your bedding fresh and clean.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749985899/temp_image_1749985898_emq6up.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-wash-a-duvet-cover
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- duvet care
+- laundry tips
+- bedding cleaning
+- fabric care
+- machine washing
+- hand washing
+title: How To Wash A Duvet Cover
 ---
 
 ## Unlock a Fresher Bed: How to Wash a Duvet Cover Correctly
