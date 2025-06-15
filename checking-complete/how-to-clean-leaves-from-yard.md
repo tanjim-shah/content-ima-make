@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Leaves From Yard
-excerpt: Learn how to clean leaves from your yard efficiently with practical tips, essential tools, and eco-friendly disposal methods for a pristine lawn.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Yard Care
-tags:
-  - leaf removal
-  - yard clean up
-  - fall clean up
-  - lawn care
-  - leaf disposal
-  - gardening tips
-  - yard maintenance
+excerpt: Learn how to clean leaves from your yard efficiently with practical tips,
+  essential tools, and eco-friendly disposal methods for a pristine lawn.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749989728/temp_image_1749989728_vbpj5g.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-leaves-from-yard
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- leaf removal
+- yard clean up
+- fall clean up
+- lawn care
+- leaf disposal
+- gardening tips
+- yard maintenance
+title: How To Clean Leaves From Yard
 ---
 
 ## Effortlessly Clean Leaves From Your Yard: A Complete Guide
