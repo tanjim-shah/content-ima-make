@@ -1,20 +1,21 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Septic Field Lines
-excerpt: Clean septic field lines effectively. This guide covers signs of clogs, DIY methods, professional cleaning, and maintenance tips to prevent system failure.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - Septic system
-  - drain field
-  - leach field
-  - septic maintenance
-  - clogged septic lines
-  - home plumbing
-  - wastewater treatment
-  - biomat removal
+excerpt: Clean septic field lines effectively. This guide covers signs of clogs, DIY
+  methods, professional cleaning, and maintenance tips to prevent system failure.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749996846/temp_image_1749996845_le0gkp.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-septic-field-lines
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Septic system
+- drain field
+- leach field
+- septic maintenance
+- clogged septic lines
+- home plumbing
+- wastewater treatment
+- biomat removal
+title: How To Clean Septic Field Lines
 ---
 
 ## Clean Your Septic Field Lines: A Comprehensive Guide

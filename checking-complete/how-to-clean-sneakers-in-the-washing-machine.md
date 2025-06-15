@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Sneakers In The Washing Machine
-excerpt: Learn how to clean sneakers in the washing machine safely and effectively. Get clean shoes with simple steps and essential tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - sneaker cleaning
-  - washing machine
-  - shoe care
-  - laundry tips
-  - clean shoes
+excerpt: Learn how to clean sneakers in the washing machine safely and effectively.
+  Get clean shoes with simple steps and essential tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749996670/temp_image_1749996670_skps8w.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-sneakers-in-the-washing-machine
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- sneaker cleaning
+- washing machine
+- shoe care
+- laundry tips
+- clean shoes
+title: How To Clean Sneakers In The Washing Machine
 ---
 
 ## Get Your Sneakers Spotless in the Washing Machine
