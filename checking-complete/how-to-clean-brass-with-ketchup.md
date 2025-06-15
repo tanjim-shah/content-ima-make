@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Brass With Ketchup
-excerpt: Discover how to clean brass with ketchup effectively. This guide offers simple, natural ways to restore shine to your tarnished brass items.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - Brass cleaning
-  - Ketchup cleaning
-  - DIY cleaning
-  - Natural cleaners
-  - Metal polishing
+excerpt: Discover how to clean brass with ketchup effectively. This guide offers simple,
+  natural ways to restore shine to your tarnished brass items.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749979013/temp_image_1749979012_q0b3wu.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-brass-with-ketchup
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Brass cleaning
+- Ketchup cleaning
+- DIY cleaning
+- Natural cleaners
+- Metal polishing
+title: How To Clean Brass With Ketchup
 ---
 
 ## Unlock Shine: How To Clean Brass With Ketchup

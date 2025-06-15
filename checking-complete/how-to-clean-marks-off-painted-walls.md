@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Marks Off Painted Walls
-excerpt: Discover how to clean marks off painted walls effectively and safely. Learn techniques for scuffs, grease, and more, protecting your home's finish.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - cleaning painted walls
-  - remove wall stains
-  - DIY wall cleaning
-  - house cleaning tips
-  - scuff marks
+excerpt: Discover how to clean marks off painted walls effectively and safely. Learn
+  techniques for scuffs, grease, and more, protecting your home's finish.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749978879/temp_image_1749978879_sh1vfv.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-marks-off-painted-walls
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- cleaning painted walls
+- remove wall stains
+- DIY wall cleaning
+- house cleaning tips
+- scuff marks
+title: How To Clean Marks Off Painted Walls
 ---
 
 ## How To Clean Marks Off Painted Walls Effectively

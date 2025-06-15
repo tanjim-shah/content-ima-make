@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Mason Jar Lids
-excerpt: Learn how to clean mason jar lids effectively. This guide covers gentle cleaning, deep cleaning, and how to remove mold or rust from jar lids.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - Mason Jar Lids
-  - Jar Cleaning
-  - Kitchen Hygiene
-  - Canning Supplies
-  - Stain Removal
-  - Mold Prevention
+excerpt: Learn how to clean mason jar lids effectively. This guide covers gentle cleaning,
+  deep cleaning, and how to remove mold or rust from jar lids.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749978990/temp_image_1749978990_zsytzr.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-mason-jar-lids
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- Mason Jar Lids
+- Jar Cleaning
+- Kitchen Hygiene
+- Canning Supplies
+- Stain Removal
+- Mold Prevention
+title: How To Clean Mason Jar Lids
 ---
 
 ## Unlock Sparkling Mason Jar Lids: A Comprehensive Cleaning Guide
