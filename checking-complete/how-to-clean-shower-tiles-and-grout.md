@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Shower Tiles And Grout
-excerpt: Clean shower tiles and grout effectively. Discover powerful methods and natural solutions to remove mold, mildew, and soap scum, keeping your shower sparkling clean.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - shower tile cleaning
-  - grout cleaning
-  - mold removal
-  - soap scum
-  - bathroom cleaning
+excerpt: Clean shower tiles and grout effectively. Discover powerful methods and natural
+  solutions to remove mold, mildew, and soap scum, keeping your shower sparkling clean.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750007191/temp_image_1750007191_qhnslu.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-shower-tiles-and-grout
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- shower tile cleaning
+- grout cleaning
+- mold removal
+- soap scum
+- bathroom cleaning
+title: How To Clean Shower Tiles And Grout
 ---
 
 ## Achieve a Sparkling Clean: How To Clean Shower Tiles And Grout

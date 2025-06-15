@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Grill Grates With Aluminum Foil
-excerpt: Discover how to clean grill grates with aluminum foil effectively. Learn simple steps and essential tips for sparkling, ready-to-use barbecue grates.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - grill cleaning
-  - aluminum foil
-  - grill grates
-  - BBQ maintenance
-  - kitchen hacks
-  - cleaning tips
-  - stubborn grease
+excerpt: Discover how to clean grill grates with aluminum foil effectively. Learn
+  simple steps and essential tips for sparkling, ready-to-use barbecue grates.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750007180/temp_image_1750007180_ujvmwf.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-grill-grates-with-aluminum-foil
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- grill cleaning
+- aluminum foil
+- grill grates
+- BBQ maintenance
+- kitchen hacks
+- cleaning tips
+- stubborn grease
+title: How To Clean Grill Grates With Aluminum Foil
 ---
 
 ## Sparkling Grill Grates: How To Clean Them With Aluminum Foil
