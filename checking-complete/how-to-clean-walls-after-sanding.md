@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Walls After Sanding
-excerpt: Learn how to effectively clean walls after sanding to prepare them for painting or finishing. Get rid of all sanding dust for a smooth, lasting finish.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Improvement
-tags:
-  - wall cleaning tips
-  - sanding dust removal
-  - paint prep
-  - smooth wall finish
+excerpt: Learn how to effectively clean walls after sanding to prepare them for painting
+  or finishing. Get rid of all sanding dust for a smooth, lasting finish.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749982382/temp_image_1749982382_aoqf7e.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-walls-after-sanding
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- wall cleaning tips
+- sanding dust removal
+- paint prep
+- smooth wall finish
+title: How To Clean Walls After Sanding
 ---
 
 ## Clean Walls After Sanding: Your Ultimate Guide for a Perfect Finish
