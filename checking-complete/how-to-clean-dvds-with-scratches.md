@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Dvds With Scratches
-excerpt: Discover how to clean scratched DVDs effectively. Restore your favorite movies and games with simple household methods and proper care.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - clean DVDs with scratches
-  - fix scratched DVDs
-  - repair DVD scratches
-  - DVD cleaning tips
-  - restore old DVDs
-  - disc repair
+excerpt: Discover how to clean scratched DVDs effectively. Restore your favorite movies
+  and games with simple household methods and proper care.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749993975/temp_image_1749993975_t4uwbh.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-dvds-with-scratches
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- clean DVDs with scratches
+- fix scratched DVDs
+- repair DVD scratches
+- DVD cleaning tips
+- restore old DVDs
+- disc repair
+title: How To Clean Dvds With Scratches
 ---
 
 ## Revive Your Movies: How To Clean Scratched DVDs and Restore Playback
