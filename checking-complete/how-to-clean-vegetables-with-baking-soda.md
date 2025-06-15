@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Vegetables With Baking Soda
-excerpt: Discover how to clean vegetables with baking soda effectively. Remove pesticides and dirt for healthier meals. Learn simple steps and benefits today!
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Kitchen Tips
-tags:
-  - cleaning vegetables baking soda
-  - natural vegetable wash
-  - pesticide removal
-  - food safety
-  - produce cleaning
-  - homemade vegetable cleaner
-  - baking soda uses
+excerpt: Discover how to clean vegetables with baking soda effectively. Remove pesticides
+  and dirt for healthier meals. Learn simple steps and benefits today!
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971606/temp_image_1749971606_vwmiml.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-vegetables-with-baking-soda
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- cleaning vegetables baking soda
+- natural vegetable wash
+- pesticide removal
+- food safety
+- produce cleaning
+- homemade vegetable cleaner
+- baking soda uses
+title: How To Clean Vegetables With Baking Soda
 ---
 
 ## Cleaning Vegetables with Baking Soda: A Fresh Approach

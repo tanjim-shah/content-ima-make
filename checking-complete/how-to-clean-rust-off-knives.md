@@ -1,17 +1,19 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Rust Off Knives Effectively
-excerpt: Discover how to clean rust off knives safely and effectively. Restore your blades with simple methods, from mild surface rust to tough stains. Keep your knives pristine.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - how to clean rust off knives
-  - knife rust removal
-  - blade rust cleaning
-  - rust prevention on knives
-  - kitchen knife care
+excerpt: Discover how to clean rust off knives safely and effectively. Restore your
+  blades with simple methods, from mild surface rust to tough stains. Keep your knives
+  pristine.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971481/temp_image_1749971480_oaxwqs.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-rust-off-knives
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- how to clean rust off knives
+- knife rust removal
+- blade rust cleaning
+- rust prevention on knives
+- kitchen knife care
+title: How To Clean Rust Off Knives Effectively
 ---
 
 ## How To Clean Rust Off Knives Effectively

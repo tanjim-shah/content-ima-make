@@ -1,20 +1,21 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Toilet Tank With Baking Soda
-excerpt: Discover how to clean toilet tank with baking soda for a fresh, efficient bathroom. This guide covers simple steps, benefits, and maintenance tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance, Cleaning Tips, Eco-Friendly Cleaning
-tags:
-  - baking soda
-  - toilet tank
-  - cleaning
-  - natural cleaning
-  - DIY cleaning
-  - descaling
-  - hard water
-  - bathroom cleaning
+excerpt: Discover how to clean toilet tank with baking soda for a fresh, efficient
+  bathroom. This guide covers simple steps, benefits, and maintenance tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971568/temp_image_1749971567_xecztq.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-toilet-tank-with-baking-soda
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- baking soda
+- toilet tank
+- cleaning
+- natural cleaning
+- DIY cleaning
+- descaling
+- hard water
+- bathroom cleaning
+title: How To Clean Toilet Tank With Baking Soda
 ---
 
 ## Easy Ways to Clean Toilet Tank with Baking Soda

@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Toilet With Pumice Stone
-excerpt: Easily clean tough toilet bowl stains like hard water, rust, and limescale using a pumice stone. This guide shows you how to safely restore your toilet's shine.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Bathroom Cleaning
-tags:
-  - pumice stone
-  - toilet cleaning
-  - hard water stains
-  - rust stains
-  - limescale removal
-  - toilet bowl cleaner
+excerpt: Easily clean tough toilet bowl stains like hard water, rust, and limescale
+  using a pumice stone. This guide shows you how to safely restore your toilet's shine.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971414/temp_image_1749971414_mutgbh.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-toilet-with-pumice-stone
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- pumice stone
+- toilet cleaning
+- hard water stains
+- rust stains
+- limescale removal
+- toilet bowl cleaner
+title: How To Clean Toilet With Pumice Stone
 ---
 
 ## Clean Toilet Stains: How to Use a Pumice Stone Effectively

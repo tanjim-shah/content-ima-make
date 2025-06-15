@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Stains On Wood
-excerpt: Learn how to effectively clean stains on wood surfaces, from water rings to pet messes. Restore your wood's beauty with simple methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - wood cleaning
-  - stain removal
-  - wood care
-  - home maintenance
-  - DIY cleaning
+excerpt: Learn how to effectively clean stains on wood surfaces, from water rings
+  to pet messes. Restore your wood's beauty with simple methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749970990/temp_image_1749970990_xqdrtr.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-stains-on-wood
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- wood cleaning
+- stain removal
+- wood care
+- home maintenance
+- DIY cleaning
+title: How To Clean Stains On Wood
 ---
 
 ## Restore Your Wood: How To Clean Stains Effectively

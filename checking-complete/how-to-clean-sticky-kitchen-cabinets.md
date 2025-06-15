@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Sticky Kitchen Cabinets
-excerpt: Discover effective methods to clean sticky kitchen cabinets. Learn how to remove stubborn grease and grime, restoring shine without damaging surfaces.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - kitchen cabinet cleaning
-  - sticky cabinets
-  - grease removal
-  - cabinet degreasing
-  - home cleaning tips
-  - kitchen maintenance
-  - wood cabinet cleaning
+excerpt: Discover effective methods to clean sticky kitchen cabinets. Learn how to
+  remove stubborn grease and grime, restoring shine without damaging surfaces.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971717/temp_image_1749971717_k05fy8.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-sticky-kitchen-cabinets
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- kitchen cabinet cleaning
+- sticky cabinets
+- grease removal
+- cabinet degreasing
+- home cleaning tips
+- kitchen maintenance
+- wood cabinet cleaning
+title: How To Clean Sticky Kitchen Cabinets
 ---
 
 ## Cleaning Sticky Kitchen Cabinets: A Complete Guide

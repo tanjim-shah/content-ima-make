@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Dry Erase Board
-excerpt: Learn how to clean dry erase boards effectively, from daily care to deep cleaning stubborn marks and ghosting. Keep your whiteboard pristine.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - dry erase board cleaning
-  - whiteboard maintenance
-  - stain removal
-  - office supplies
-  - home organization
+excerpt: Learn how to clean dry erase boards effectively, from daily care to deep
+  cleaning stubborn marks and ghosting. Keep your whiteboard pristine.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971539/temp_image_1749971539_fplbdu.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-dry-erase-board
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- dry erase board cleaning
+- whiteboard maintenance
+- stain removal
+- office supplies
+- home organization
+title: How To Clean Dry Erase Board
 ---
 
 ## Keep Your Dry Erase Board Spotless: A Cleaning Guide

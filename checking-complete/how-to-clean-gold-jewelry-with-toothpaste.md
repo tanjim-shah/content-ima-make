@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Gold Jewelry With Toothpaste
-excerpt: Discover how to clean gold jewelry with toothpaste safely and effectively. Restore shine to your precious pieces using this common household item.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - gold jewelry cleaning
-  - toothpaste cleaning
-  - jewelry care tips
-  - homemade jewelry cleaner
-  - clean gold
+excerpt: Discover how to clean gold jewelry with toothpaste safely and effectively.
+  Restore shine to your precious pieces using this common household item.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749971732/temp_image_1749971732_w8j2tk.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-gold-jewelry-with-toothpaste
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- gold jewelry cleaning
+- toothpaste cleaning
+- jewelry care tips
+- homemade jewelry cleaner
+- clean gold
+title: How To Clean Gold Jewelry With Toothpaste
 ---
 
 ## Restore Your Gold's Shine: Cleaning with Toothpaste
