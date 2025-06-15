@@ -1,18 +1,20 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Second Story Gutters
-excerpt: Learn how to clean second story gutters safely and effectively. Discover essential tools, alternative methods, and crucial safety tips for high-level gutter cleaning.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - second story gutters
-  - gutter cleaning
-  - high gutters
-  - gutter maintenance
-  - safety
-  - cleaning tools
+excerpt: Learn how to clean second story gutters safely and effectively. Discover
+  essential tools, alternative methods, and crucial safety tips for high-level gutter
+  cleaning.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750003542/temp_image_1750003541_ufwsh0.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-second-story-gutters
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- second story gutters
+- gutter cleaning
+- high gutters
+- gutter maintenance
+- safety
+- cleaning tools
+title: How To Clean Second Story Gutters
 ---
 
 ## Cleaning Second Story Gutters: Your Complete Safety Guide
