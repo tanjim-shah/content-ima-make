@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Dog Urine From Hardwood Floors
-excerpt: Learn how to clean dog urine from hardwood floors effectively. Discover methods for fresh and old stains, odor removal, and prevention.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - dog urine
-  - hardwood floor cleaning
-  - pet stains
+excerpt: Learn how to clean dog urine from hardwood floors effectively. Discover methods
+  for fresh and old stains, odor removal, and prevention.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1749975045/temp_image_1749975045_uyjpth.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-dog-urine-from-hardwood-floors
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- dog urine
+- hardwood floor cleaning
+- pet stains
+title: How To Clean Dog Urine From Hardwood Floors
 ---
 
 ## Restore Your Hardwood: How To Clean Dog Urine Effectively
