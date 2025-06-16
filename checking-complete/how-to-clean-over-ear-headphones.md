@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Over Ear Headphones
-excerpt: Learn to effectively clean over ear headphones to remove grime, prevent odors, and extend their lifespan. Keep your audio equipment fresh.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Electronics Care
-tags:
-  - headphone cleaning
-  - audio equipment care
-  - earpad hygiene
-  - electronics cleaning
-  - over-ear headphone maintenance
+excerpt: Learn to effectively clean over ear headphones to remove grime, prevent odors,
+  and extend their lifespan. Keep your audio equipment fresh.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750072437/temp_image_1750072437_vw2s7v.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-over-ear-headphones
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- headphone cleaning
+- audio equipment care
+- earpad hygiene
+- electronics cleaning
+- over-ear headphone maintenance
+title: How To Clean Over Ear Headphones
 ---
 
 ## Keep Your Over Ear Headphones Spotless

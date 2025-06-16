@@ -1,15 +1,17 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Gold Jewelry With Baking Soda
-excerpt: Restore your gold jewelry's sparkle safely with baking soda. Learn simple, effective methods for cleaning gold, removing tarnish, and maintaining shine at home.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Care
-tags:
-  - gold jewelry
-  - baking soda cleaning
-  - jewelry care
+excerpt: Restore your gold jewelry's sparkle safely with baking soda. Learn simple,
+  effective methods for cleaning gold, removing tarnish, and maintaining shine at
+  home.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750072514/temp_image_1750072514_wckxex.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-gold-jewelry-with-baking-soda
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- gold jewelry
+- baking soda cleaning
+- jewelry care
+title: How To Clean Gold Jewelry With Baking Soda
 ---
 
 ## Restore Your Gold Jewelry's Brilliance with Baking Soda
