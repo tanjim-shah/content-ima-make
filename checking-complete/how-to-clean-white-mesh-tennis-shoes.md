@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean White Mesh Tennis Shoes
-excerpt: Learn how to clean white mesh tennis shoes with simple steps and common household items to keep them looking brand new.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Footwear Care
-tags:
-  - white mesh shoes
-  - clean tennis shoes
-  - shoe care
-  - mesh cleaning
-  - sneaker maintenance
-  - refresh white shoes
+excerpt: Learn how to clean white mesh tennis shoes with simple steps and common household
+  items to keep them looking brand new.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750069302/temp_image_1750069302_kwdl82.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-white-mesh-tennis-shoes
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- white mesh shoes
+- clean tennis shoes
+- shoe care
+- mesh cleaning
+- sneaker maintenance
+- refresh white shoes
+title: How To Clean White Mesh Tennis Shoes
 ---
 
 ## How To Clean White Mesh Tennis Shoes: Keep Them Looking New

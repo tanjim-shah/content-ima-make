@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Fiddle Leaf Fig Leaves
-excerpt: Learn how to clean fiddle leaf fig leaves properly. Keep your plant healthy, dust-free, and vibrant with our simple, effective cleaning guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Plant Care
-tags:
-  - fiddle leaf fig care
-  - houseplant cleaning
-  - plant health
+excerpt: Learn how to clean fiddle leaf fig leaves properly. Keep your plant healthy,
+  dust-free, and vibrant with our simple, effective cleaning guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750069535/temp_image_1750069535_b5nsqi.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-fiddle-leaf-fig-leaves
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- fiddle leaf fig care
+- houseplant cleaning
+- plant health
+title: How To Clean Fiddle Leaf Fig Leaves
 ---
 
 ## Keeping Fiddle Leaf Fig Leaves Clean: Your Essential Guide

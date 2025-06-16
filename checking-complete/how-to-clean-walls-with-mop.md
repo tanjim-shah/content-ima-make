@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Walls With Mop
-excerpt: Discover how to effectively clean walls with a mop for a spotless home. Get tips, tools, and steps to make wall washing simple and streak-free.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - wall cleaning
-  - mop cleaning
-  - home maintenance
-  - painted walls
-  - cleaning tips
+excerpt: Discover how to effectively clean walls with a mop for a spotless home. Get
+  tips, tools, and steps to make wall washing simple and streak-free.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750069430/temp_image_1750069430_p6ucya.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-walls-with-mop
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- wall cleaning
+- mop cleaning
+- home maintenance
+- painted walls
+- cleaning tips
+title: How To Clean Walls With Mop
 ---
 
 ## Effortless Wall Cleaning with a Mop: Your Guide

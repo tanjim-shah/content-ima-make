@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Battery Corrosion In Toys
-excerpt: Learn how to clean battery corrosion in toys easily. Restore your child's favorite playthings with simple, effective methods. Get tips to prevent future damage.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - battery corrosion cleaning
-  - toy repair
-  - electronics cleaning
-  - household cleaning
-  - battery acid removal
+excerpt: Learn how to clean battery corrosion in toys easily. Restore your child's
+  favorite playthings with simple, effective methods. Get tips to prevent future damage.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750069516/temp_image_1750069515_avansi.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-battery-corrosion-in-toys
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- battery corrosion cleaning
+- toy repair
+- electronics cleaning
+- household cleaning
+- battery acid removal
+title: How To Clean Battery Corrosion In Toys
 ---
 
 ## Restore Your Toys: How To Clean Battery Corrosion Effectively
