@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Silicone Ice Trays
-excerpt: Keep your ice tasting fresh. Learn how to clean silicone ice trays effectively, removing odors, stains, and mold with simple methods.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Kitchen Cleaning
-tags:
-  - silicone cleaning
-  - ice tray cleaning
-  - remove odors
-  - mold removal
-  - kitchen hacks
+excerpt: Keep your ice tasting fresh. Learn how to clean silicone ice trays effectively,
+  removing odors, stains, and mold with simple methods.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750062456/temp_image_1750062456_bx9afg.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-silicone-ice-trays
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- silicone cleaning
+- ice tray cleaning
+- remove odors
+- mold removal
+- kitchen hacks
+title: How To Clean Silicone Ice Trays
 ---
 
 ## Learn How To Clean Silicone Ice Trays for Fresh Ice
