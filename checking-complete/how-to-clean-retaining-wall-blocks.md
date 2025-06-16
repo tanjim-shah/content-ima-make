@@ -1,19 +1,20 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Retaining Wall Blocks
-excerpt: Learn how to clean retaining wall blocks effectively, removing mold, efflorescence, and dirt for a beautiful, refreshed landscape.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - retaining wall cleaning
-  - outdoor cleaning
-  - block cleaning
-  - mold removal
-  - efflorescence
-  - pressure washing
-  - DIY cleaning
+excerpt: Learn how to clean retaining wall blocks effectively, removing mold, efflorescence,
+  and dirt for a beautiful, refreshed landscape.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750066023/temp_image_1750066022_pgjzne.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-retaining-wall-blocks
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- retaining wall cleaning
+- outdoor cleaning
+- block cleaning
+- mold removal
+- efflorescence
+- pressure washing
+- DIY cleaning
+title: How To Clean Retaining Wall Blocks
 ---
 
 ## How To Clean Retaining Wall Blocks Effectively

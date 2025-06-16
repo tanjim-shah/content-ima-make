@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Hot Tub Cover
-excerpt: Learn how to clean your hot tub cover effectively. This guide provides steps for deep cleaning, mold removal, and protecting your cover for longevity.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - Hot Tub Care
-  - Cover Cleaning
-  - Spa Maintenance
+excerpt: Learn how to clean your hot tub cover effectively. This guide provides steps
+  for deep cleaning, mold removal, and protecting your cover for longevity.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750066038/temp_image_1750066037_vbgd9g.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-hot-tub-cover
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Hot Tub Care
+- Cover Cleaning
+- Spa Maintenance
+title: How To Clean Hot Tub Cover
 ---
 
 ## How to Clean Your Hot Tub Cover for Lasting Enjoyment
