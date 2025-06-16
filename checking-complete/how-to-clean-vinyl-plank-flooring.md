@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Vinyl Plank Flooring
-excerpt: Discover how to clean vinyl plank flooring effectively. Our guide covers daily care, deep cleaning, and stain removal for sparkling, durable floors.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - vinyl plank cleaning
-  - floor care
-  - LVT cleaning
-  - LVP cleaning
-  - hard floor maintenance
-  - clean vinyl floors
+excerpt: Discover how to clean vinyl plank flooring effectively. Our guide covers
+  daily care, deep cleaning, and stain removal for sparkling, durable floors.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750083199/temp_image_1750083198_pd8p82.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-vinyl-plank-flooring
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- vinyl plank cleaning
+- floor care
+- LVT cleaning
+- LVP cleaning
+- hard floor maintenance
+- clean vinyl floors
+title: How To Clean Vinyl Plank Flooring
 ---
 
 ## How To Clean Vinyl Plank Flooring: A Complete Guide

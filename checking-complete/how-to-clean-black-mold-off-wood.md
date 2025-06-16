@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Black Mold Off Wood
-excerpt: Learn how to effectively clean black mold off wood surfaces using simple, safe methods. This guide covers tools, natural remedies, and prevention.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - black mold removal
-  - wood cleaning
-  - mold remediation
-  - household mold
-  - DIY mold removal
+excerpt: Learn how to effectively clean black mold off wood surfaces using simple,
+  safe methods. This guide covers tools, natural remedies, and prevention.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750083404/temp_image_1750083404_ayup0m.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-black-mold-off-wood
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- black mold removal
+- wood cleaning
+- mold remediation
+- household mold
+- DIY mold removal
+title: How To Clean Black Mold Off Wood
 ---
 
 ## Eradicating Black Mold From Wood Surfaces
