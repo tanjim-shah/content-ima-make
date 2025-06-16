@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-13T00:00:00Z
-title: How To Clean Blu Ray Disc
-excerpt: Learn how to safely clean Blu-ray discs. Restore optimal playback and protect your movie collection with our simple, effective guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Electronics Care
-tags:
-  - Blu-ray cleaning
-  - disc care
-  - media maintenance
-  - fix skipping disc
-  - restore Blu-ray
+excerpt: Learn how to safely clean Blu-ray discs. Restore optimal playback and protect
+  your movie collection with our simple, effective guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750077044/temp_image_1750077043_waajpc.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-blu-ray-disc
+publishDate: 2025-06-13 00:00:00+00:00
+tags:
+- Blu-ray cleaning
+- disc care
+- media maintenance
+- fix skipping disc
+- restore Blu-ray
+title: How To Clean Blu Ray Disc
 ---
 
 ## Restore Your Blu-ray: How to Clean Blu Ray Disc Safely

@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Calcium Buildup On Glass
-excerpt: Discover effective ways to clean calcium buildup on glass surfaces, from natural solutions like vinegar to powerful commercial cleaners.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - hard water stains
-  - glass cleaning
-  - shower glass care
-  - mineral deposits
+excerpt: Discover effective ways to clean calcium buildup on glass surfaces, from
+  natural solutions like vinegar to powerful commercial cleaners.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750076919/temp_image_1750076919_yi3dvk.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-calcium-buildup-on-glass
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- hard water stains
+- glass cleaning
+- shower glass care
+- mineral deposits
+title: How To Clean Calcium Buildup On Glass
 ---
 
 ## How To Clean Calcium Buildup On Glass Quickly
