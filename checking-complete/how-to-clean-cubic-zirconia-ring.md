@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Cubic Zirconia Ring
-excerpt: Learn how to clean cubic zirconia rings easily at home. Restore their sparkle and keep them looking new with our simple, effective cleaning methods and care tips.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Jewelry Care
-tags:
-  - cubic zirconia
-  - CZ ring cleaning
-  - jewelry cleaning
-  - ring care
-  - restore sparkle
+excerpt: Learn how to clean cubic zirconia rings easily at home. Restore their sparkle
+  and keep them looking new with our simple, effective cleaning methods and care tips.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750058807/temp_image_1750058807_kn1ukt.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-cubic-zirconia-ring
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- cubic zirconia
+- CZ ring cleaning
+- jewelry cleaning
+- ring care
+- restore sparkle
+title: How To Clean Cubic Zirconia Ring
 ---
 
 ## How To Clean Cubic Zirconia Ring
