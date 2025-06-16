@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-14T00:00:00Z
-title: How To Clean Insulated Lunch Bag
-excerpt: Discover how to effectively clean insulated lunch bag liners, remove odors, and prevent mold. Keep your lunch bag fresh and safe with our expert guide.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Cleaning
-tags:
-  - insulated lunch bag cleaning
-  - lunch bag care
-  - remove lunch bag odor
-  - prevent mold in lunch bag
-  - food stain removal
+excerpt: Discover how to effectively clean insulated lunch bag liners, remove odors,
+  and prevent mold. Keep your lunch bag fresh and safe with our expert guide.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750081380/temp_image_1750081380_eqr5kx.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-insulated-lunch-bag
+publishDate: 2025-06-14 00:00:00+00:00
+tags:
+- insulated lunch bag cleaning
+- lunch bag care
+- remove lunch bag odor
+- prevent mold in lunch bag
+- food stain removal
+title: How To Clean Insulated Lunch Bag
 ---
 
 ## Clean Your Insulated Lunch Bag: A Complete Guide

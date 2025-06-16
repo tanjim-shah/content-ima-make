@@ -1,17 +1,18 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Cassette Player In Car
-excerpt: Learn how to effectively clean a cassette player in your car, ensuring optimal sound quality and extending its lifespan with simple steps.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Car Care
-tags:
-  - car cassette player
-  - cleaning tape deck
-  - automotive audio
-  - tape deck maintenance
-  - vintage car audio
+excerpt: Learn how to effectively clean a cassette player in your car, ensuring optimal
+  sound quality and extending its lifespan with simple steps.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750081359/temp_image_1750081359_phpeqp.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-cassette-player-in-car
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- car cassette player
+- cleaning tape deck
+- automotive audio
+- tape deck maintenance
+- vintage car audio
+title: How To Clean Cassette Player In Car
 ---
 
 ## Restore Your Sound: How To Clean Cassette Player In Car
