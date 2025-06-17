@@ -461,7 +461,7 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install google-generativeai pillow requests pyyaml
+        pip install google-generativeai pillow requests pyyaml backoff
         
     - name: Create image processing script
       run: |
