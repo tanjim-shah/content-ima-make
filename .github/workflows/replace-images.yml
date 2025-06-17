@@ -461,7 +461,7 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install google-generativeai pillow requests pyyaml backoff
+        pip install google-genai pillow requests pyyaml
         
     - name: Create image processing script
       run: |
@@ -474,17 +474,15 @@ jobs:
         import time
         import requests
         import mimetypes
-        import backoff
         from pathlib import Path
         from PIL import Image
-        import google.generativeai as genai
+        from google import genai
+        from google.genai import types
         
         # Configuration
         ARTICLES_DIR = "articles-folder"
         PLACEHOLDER_URL = "https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png"
         MAX_FILES_PER_RUN = 50
-        INITIAL_RETRY_DELAY = 5
-        MAX_RETRIES = 3
         
         class APIKeyManager:
             """Manages multiple Gemini API keys with rotation"""
@@ -503,12 +501,14 @@ jobs:
                 """Load all available Gemini API keys from environment variables"""
                 keys = []
                 
+                # Try to load GEMINI_API_KEY_1 through GEMINI_API_KEY_6
                 for i in range(1, 7):
                     key = os.environ.get(f"GEMINI_API_KEY_{i}")
                     if key:
                         keys.append(key)
                         print(f"Loaded API key #{i}")
                 
+                # Also try the original GEMINI_API_KEY
                 original_key = os.environ.get("GEMINI_API_KEY")
                 if original_key and original_key not in keys:
                     keys.append(original_key)
@@ -603,80 +603,94 @@ jobs:
                 print(f"Upload error: {e}")
                 return None
         
-        @backoff.on_exception(backoff.expo, Exception, max_tries=MAX_RETRIES)
         def generate_and_upload_image(title, api_key_manager):
             """Generate image using Gemini and upload to Cloudinary"""
-            try:
-                current_key = api_key_manager.get_current_key()
-                genai.configure(api_key=current_key)
-                model = genai.GenerativeModel('gemini-1.5-pro')  # Use a stable model
-                
-                # Enhanced prompt
-                prompt = (
-                    f"Generate a high-resolution (1200x630 pixels), professional blog header image for the topic: {title}. "
-                    "The image should be visually appealing, modern, and directly relevant to the subject. "
-                    "Use a clean, vibrant style suitable for a blog post, with clear imagery and no text overlays. "
-                    "Ensure the composition is balanced and professional."
-                )
-                
-                response = model.generate_content(
-                    prompt,
-                    generation_config={
-                        "response_mime_type": "image/png"
-                    }
-                )
-                
-                api_key_manager.increment_usage(current_key)
-                
-                # Validate response
-                if not response.parts or not hasattr(response.parts[0], 'inline_data'):
-                    print(f"Invalid response structure: {response}")
-                    raise ValueError("No image data in response")
-                
-                inline_data = response.parts[0].inline_data
-                if not hasattr(inline_data, 'mime_type') or not inline_data.data:
-                    print(f"Invalid inline data: {inline_data}")
-                    raise ValueError("Invalid image data")
-                
-                file_ext = mimetypes.guess_extension(inline_data.mime_type)
-                if not file_ext:
-                    print("Unknown mime type")
-                    raise ValueError("Unknown mime type")
-                
-                original_file = f"temp_image_{int(time.time())}{file_ext}"
-                save_binary_file(original_file, inline_data.data)
-                
-                # Compress and convert to WebP
-                final_file = compress_image(original_file)
-                
-                # Upload to Cloudinary
-                uploaded_url = upload_to_cloudinary(final_file)
-                
-                # Clean up temporary file
-                if os.path.exists(final_file):
-                    os.remove(final_file)
-                
-                if not uploaded_url:
-                    raise ValueError("Failed to upload image to Cloudinary")
-                
-                return uploaded_url
+            max_retries = 3
             
-            except Exception as e:
-                error_str = str(e).lower()
-                if any(keyword in error_str for keyword in ['quota', 'resource_exhausted', 'limit']):
-                    print(f"Quota exhausted for current API key: {e}")
-                    api_key_manager.mark_key_as_failed(current_key, str(e))
-                raise Exception(f"Image generation failed: {e}")
+            for attempt in range(max_retries):
+                try:
+                    current_key = api_key_manager.get_current_key()
+                    client = genai.Client(api_key=current_key)
+                    model = "gemini-2.0-flash-exp-image-generation"
+                    
+                    # Create a highly creative and visually striking prompt
+                    prompt = f"""Create a stunning, ultra-creative blog header image for: "{title}". 
+                    
+                    Style requirements:
+                    - realistic image
+                    - Rich, vibrant colors with beautiful gradients
+                    - Dynamic composition with interesting angles and perspectives
+                    - Professional photography quality with shallow depth of field
+                    - Modern, contemporary aesthetic with artistic flair
+                    - Include subtle bokeh effects and atmospheric elements
+                    - Use creative visual metaphors and symbolic elements related to the topic
+                    - Incorporate elegant typography space considerations
+                    - High contrast and visual impact that stops scrolling
+                    - Award-winning commercial photography style
+                    
+                    Make it visually captivating, premium quality, and emotionally engaging. The image should feel alive and dynamic, not static or boring. Think magazine cover quality with artistic creativity."""
+                    
+                    contents = [types.Content(
+                        role="user",
+                        parts=[types.Part.from_text(text=prompt)]
+                    )]
+                    
+                    response = client.models.generate_content(
+                        model=model,
+                        contents=contents,
+                        config=types.GenerateContentConfig(response_modalities=["image", "text"])
+                    )
+        
+                    api_key_manager.increment_usage(current_key)
+        
+                    if response.candidates and response.candidates[0].content.parts:
+                        inline_data = response.candidates[0].content.parts[0].inline_data
+                        file_ext = mimetypes.guess_extension(inline_data.mime_type)
+                        original_file = f"temp_image_{int(time.time())}{file_ext}"
+                        save_binary_file(original_file, inline_data.data)
+        
+                        # Compress and convert to WebP
+                        final_file = compress_image(original_file)
+                        
+                        # Upload to Cloudinary
+                        uploaded_url = upload_to_cloudinary(final_file)
+                        
+                        # Clean up temporary file
+                        if os.path.exists(final_file):
+                            os.remove(final_file)
+                        
+                        return uploaded_url
+                    return None
+                    
+                except Exception as e:
+                    error_str = str(e).lower()
+                    
+                    if any(keyword in error_str for keyword in ['quota', 'resource_exhausted', 'limit']):
+                        print(f"Quota exhausted for current API key (attempt {attempt + 1}): {e}")
+                        api_key_manager.mark_key_as_failed(current_key, str(e))
+                        
+                        if attempt < max_retries - 1:
+                            print("Retrying with next API key...")
+                            time.sleep(2)
+                            continue
+                    else:
+                        print(f"Image generation error (attempt {attempt + 1}): {e}")
+                        if attempt < max_retries - 1:
+                            time.sleep(2)
+                            continue
+                    
+                    if attempt == max_retries - 1:
+                        print("Max retries reached for image generation")
+                        return None
         
         def extract_frontmatter_and_content(file_content):
             """Extract YAML frontmatter and content from markdown file"""
-            if not file_content.startswith('---\n'):
-                print("File does not start with valid frontmatter")
+            if not file_content.startswith('---'):
                 return None, file_content
             
+            # Find the end of frontmatter
             end_match = re.search(r'\n---\n', file_content[3:])
             if not end_match:
-                print("No closing frontmatter delimiter found")
                 return None, file_content
             
             frontmatter_end = end_match.end() + 3
@@ -685,12 +699,6 @@ jobs:
             
             try:
                 frontmatter = yaml.safe_load(frontmatter_text)
-                if not isinstance(frontmatter, dict):
-                    print("Frontmatter is not a valid dictionary")
-                    return None, file_content
-                if 'image' not in frontmatter:
-                    print("No 'image' field in frontmatter")
-                    return None, file_content
                 return frontmatter, content
             except yaml.YAMLError as e:
                 print(f"Error parsing frontmatter: {e}")
@@ -737,7 +745,7 @@ jobs:
                 if frontmatter and 'title' in frontmatter:
                     return frontmatter['title']
                 else:
-                    print("No title in frontmatter, using filename")
+                    # Fallback to filename
                     return Path(file_path).stem.replace('-', ' ').title()
                     
             except Exception as e:
@@ -754,43 +762,27 @@ jobs:
                 print(f"Error reading file {file_path}: {e}")
                 return False
         
-        def validate_file(file_path):
-            """Validate markdown file before processing"""
+        def delete_file(file_path):
+            """Delete the processed file"""
             try:
-                if not file_path.exists():
-                    print(f"File does not exist: {file_path}")
-                    return False
-                
-                if file_path.stat().st_size == 0:
-                    print(f"File is empty: {file_path}")
-                    return False
-                
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                
-                if not content.strip():
-                    print(f"File has no content: {file_path}")
-                    return False
-                
-                frontmatter, _ = extract_frontmatter_and_content(content)
-                if frontmatter is None:
-                    print(f"Invalid frontmatter in file: {file_path}")
-                    return False
-                
+                os.remove(file_path)
+                print(f"Successfully deleted file: {file_path}")
                 return True
             except Exception as e:
-                print(f"Error validating file {file_path}: {e}")
+                print(f"Error deleting file {file_path}: {e}")
                 return False
         
         def main():
             print("Starting image replacement process...")
             
+            # Initialize API key manager
             try:
                 api_key_manager = APIKeyManager()
             except Exception as e:
                 print(f"Failed to initialize API key manager: {e}")
                 return
             
+            # Get all markdown files with placeholder images
             articles_path = Path(ARTICLES_DIR)
             if not articles_path.exists():
                 print(f"Articles directory {ARTICLES_DIR} does not exist")
@@ -798,20 +790,21 @@ jobs:
             
             md_files = []
             for file_path in articles_path.glob("*.md"):
-                if has_placeholder_image(file_path) and validate_file(file_path):
+                if has_placeholder_image(file_path):
                     md_files.append(file_path)
             
             if not md_files:
-                print("No valid files with placeholder images found")
+                print("No files with placeholder images found")
                 return
             
-            print(f"Found {len(md_files)} valid files with placeholder images")
+            print(f"Found {len(md_files)} files with placeholder images")
             
+            # Process up to MAX_FILES_PER_RUN files
             files_to_process = md_files[:MAX_FILES_PER_RUN]
             print(f"Processing {len(files_to_process)} files")
             
             processed_files = []
-            skipped_files = []
+            deleted_files = []
             
             for i, file_path in enumerate(files_to_process, 1):
                 print(f"\n{'='*50}")
@@ -819,32 +812,43 @@ jobs:
                 print(f"{'='*50}")
                 
                 try:
+                    # Extract title from the markdown file
                     title = get_title_from_markdown(file_path)
                     print(f"Title: {title}")
                     
+                    # Generate new image
                     print("Generating new image...")
                     new_image_url = generate_and_upload_image(title, api_key_manager)
                     
-                    print(f"Generated image URL: {new_image_url}")
-                    
-                    if update_markdown_file(file_path, new_image_url):
-                        print("Successfully updated markdown file")
-                        file_path.unlink()
-                        print(f"Deleted file: {file_path}")
-                        processed_files.append(file_path.name)
+                    if new_image_url:
+                        print(f"Generated image URL: {new_image_url}")
+                        
+                        # Update the markdown file
+                        if update_markdown_file(file_path, new_image_url):
+                            print("Successfully updated markdown file")
+                            processed_files.append(file_path.name)
+                            
+                            # Delete the file from articles-folder
+                            if delete_file(file_path):
+                                deleted_files.append(file_path.name)
+                                print(f"Deleted file from articles-folder: {file_path.name}")
+                            else:
+                                print(f"Failed to delete file: {file_path.name}")
+                        else:
+                            print("Failed to update markdown file")
                     else:
-                        print(f"Failed to update markdown file, skipping {file_path}")
-                        skipped_files.append(file_path.name)
+                        print("Failed to generate image, skipping file")
                     
                 except Exception as e:
                     print(f"Error processing file {file_path}: {e}")
-                    skipped_files.append(file_path.name)
                     continue
                 
+                # Add delay between requests
                 if i < len(files_to_process):
-                    print(f"Waiting {INITIAL_RETRY_DELAY} seconds before next file...")
-                    time.sleep(INITIAL_RETRY_DELAY)
+                    print("Waiting 5 seconds before next file...")
+                    time.sleep(5)
             
+            # Print final status
             print(f"\n{'='*50}")
             print("PROCESSING COMPLETE")
             print(f"{'='*50}")
@@ -852,11 +856,11 @@ jobs:
             for filename in processed_files:
                 print(f"  - {filename}")
             
-            if skipped_files:
-                print(f"\nSkipped {len(skipped_files)} files due to errors:")
-                for filename in skipped_files:
-                    print(f"  - {filename}")
+            print(f"\nSuccessfully deleted {len(deleted_files)} files:")
+            for filename in deleted_files:
+                print(f"  - {filename}")
             
+            # Print API key usage status
             print(f"\nAPI Key Usage Status:")
             for i, key in enumerate(api_key_manager.api_keys, 1):
                 usage = api_key_manager.key_usage_count[key]
@@ -891,6 +895,6 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Replace placeholder images with AI-generated images - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "Replace placeholder images with AI-generated images and remove processed files - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
         fi
