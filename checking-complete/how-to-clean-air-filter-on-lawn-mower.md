@@ -1,16 +1,17 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Air Filter On Lawn Mower
-excerpt: Learn how to clean your lawn mower's air filter with simple steps. Improve engine performance and fuel efficiency easily for a healthier lawn.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Home Maintenance
-tags:
-  - lawn mower maintenance
-  - air filter cleaning
-  - engine care
-  - DIY repair
+excerpt: Learn how to clean your lawn mower's air filter with simple steps. Improve
+  engine performance and fuel efficiency easily for a healthier lawn.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750148442/temp_image_1750148442_izl1yw.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-air-filter-on-lawn-mower
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- lawn mower maintenance
+- air filter cleaning
+- engine care
+- DIY repair
+title: How To Clean Air Filter On Lawn Mower
 ---
 
 ## Optimize Your Lawn Mower's Performance: How to Clean the Air Filter

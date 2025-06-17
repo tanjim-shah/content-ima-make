@@ -1,18 +1,19 @@
 ---
-publishDate: 2025-06-12T00:00:00Z
-title: How To Clean Cast Aluminum Patio Furniture
-excerpt: Refresh your cast aluminum patio furniture with our easy guide. Learn gentle cleaning methods, remove tough stains, and protect your outdoor pieces.
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Outdoor Living
-tags:
-  - cast aluminum patio furniture
-  - outdoor furniture cleaning
-  - aluminum cleaning
-  - patio furniture care
-  - rust removal aluminum
-  - mold removal outdoor furniture
+excerpt: Refresh your cast aluminum patio furniture with our easy guide. Learn gentle
+  cleaning methods, remove tough stains, and protect your outdoor pieces.
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750148676/temp_image_1750148676_ubphpc.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-cast-aluminum-patio-furniture
+publishDate: 2025-06-12 00:00:00+00:00
+tags:
+- cast aluminum patio furniture
+- outdoor furniture cleaning
+- aluminum cleaning
+- patio furniture care
+- rust removal aluminum
+- mold removal outdoor furniture
+title: How To Clean Cast Aluminum Patio Furniture
 ---
 
 ## Keeping Your Cast Aluminum Patio Furniture Spotless
