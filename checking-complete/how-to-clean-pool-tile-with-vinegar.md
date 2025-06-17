@@ -1,18 +1,20 @@
 ---
-publishDate: 2025-06-11T00:00:00Z
-title: How To Clean Pool Tile With Vinegar
-excerpt: Discover how to clean pool tile with vinegar naturally and effectively. Remove calcium, hard water, and algae buildup for a sparkling pool. Get your pool tile shining!
-image: https://res.cloudinary.com/dbcpfy04c/image/upload/v1743184673/images_k6zam3.png
 category: Pool Maintenance
-tags:
-  - pool cleaning
-  - vinegar cleaning
-  - tile cleaning
-  - calcium removal
-  - hard water stains
-  - eco-friendly cleaning
+excerpt: Discover how to clean pool tile with vinegar naturally and effectively. Remove
+  calcium, hard water, and algae buildup for a sparkling pool. Get your pool tile
+  shining!
+image: https://res.cloudinary.com/dkazby3ab/image/upload/v1750145059/temp_image_1750145059_e8shmq.webp
 metadata:
   canonical: https://www.homeessentialsguide.com/how-to-clean-pool-tile-with-vinegar
+publishDate: 2025-06-11 00:00:00+00:00
+tags:
+- pool cleaning
+- vinegar cleaning
+- tile cleaning
+- calcium removal
+- hard water stains
+- eco-friendly cleaning
+title: How To Clean Pool Tile With Vinegar
 ---
 
 ## Clean Pool Tile with Vinegar: A Natural Solution
